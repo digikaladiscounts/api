@@ -1,22 +1,5 @@
 [
   {
-    "Id": "13948668",
-    "AddDate": "2024-04-17T10:13:10.4003113Z",
-    "Timer": 6391,
-    "EndDate": "2024-04-17T11:59:41.4003113Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0647\u0646\u062F\u0632\u0641\u0631\u06CC \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0645\u062F\u0644 Cat Ear",
-    "Url": "/product/dkp-13948668/\u0647\u0646\u062F\u0632\u0641\u0631\u06CC-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0645\u062F\u0644-cat-ear",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/989b7f59bd7d3c7b25e837972fecf39d22b06438_1704014378.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 289970,
-    "RrpPrice": 999900,
-    "SoldPercentage": 0,
-    "Discount": 709930,
-    "DiscountPercent": 71
-  },
-  {
     "Id": "15087735",
     "AddDate": "2024-04-17T12:20:16.4897874Z",
     "Timer": 13165,
@@ -8743,7 +8726,7 @@
     "Timer": 22723,
     "EndDate": "2024-04-19T04:29:40.7051427Z",
     "Retries": 6,
-    "IsDone": false,
+    "IsDone": true,
     "Error": "Username value should be Identifier or Username that starts with @",
     "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0645\u0631\u062F\u0627\u0646\u0647 \u0622\u0644\u0628\u0631\u062A \u0648\u06AF \u0645\u062F\u0644 6315C84-P50 Polarized Avantgarde Visionary",
     "Url": "/product/dkp-15109048/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0645\u0631\u062F\u0627\u0646\u0647-\u0622\u0644\u0628\u0631\u062A-\u0648\u06AF-\u0645\u062F\u0644-6315c84-p50-polarized-avantgarde-visionary",
