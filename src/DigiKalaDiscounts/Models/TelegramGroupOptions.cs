@@ -1,4 +1,5 @@
 using CommandLine;
+using Telegram.Bot.Types;
 
 namespace DigiKalaDiscounts.Models;
 

@@ -11,7 +11,7 @@ public class TelegramBotService : ITelegramBotService
         ArgumentNullException.ThrowIfNull(telegramGroupOptions);
 
         var telegramBotClient = new TelegramBotClient(telegramGroupOptions.AccessToken);
-        return telegramBotClient.SendPhotoAsync(telegramGroupOptions.ChatId,
+        return telegramBotClient.SendPhotoAsync(@"@"+telegramGroupOptions.ChatId,
                                                 productItem.ImageUrl ?? "",
                                                 productItem.ToString(),
                                                 ParseMode.Html
