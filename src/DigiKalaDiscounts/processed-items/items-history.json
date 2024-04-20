@@ -9008,5 +9008,39 @@
     "SoldPercentage": 0,
     "Discount": 625000,
     "DiscountPercent": 52
+  },
+  {
+    "Id": "14945007",
+    "AddDate": "2024-04-20T06:14:02.9672384Z",
+    "Timer": 8137,
+    "EndDate": "2024-04-20T08:29:39.9672384Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0648\u0644\u0647 \u067E\u0634\u062A\u06CC \u0633\u0641\u0631\u06CC \u0645\u062F\u0644 3331 \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u06A9\u06CC\u0641 \u0639\u0627\u06CC\u0642 \u062F\u0627\u0631 \u0645\u062C\u0645\u0648\u0639\u0647 \u062F\u0648 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-14945007/\u06A9\u0648\u0644\u0647-\u067E\u0634\u062A\u06CC-\u0633\u0641\u0631\u06CC-\u0645\u062F\u0644-3331-\u0628\u0647-\u0647\u0645\u0631\u0627\u0647-\u06A9\u06CC\u0641-\u0639\u0627\u06CC\u0642-\u062F\u0627\u0631-\u0645\u062C\u0645\u0648\u0639\u0647-\u062F\u0648-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/2b975d3f872895b76ae93ae5beb66471131ffb5e_1711784325.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 795000,
+    "RrpPrice": 1695000,
+    "SoldPercentage": 0,
+    "Discount": 900000,
+    "DiscountPercent": 53
+  },
+  {
+    "Id": "9917796",
+    "AddDate": "2024-04-20T06:14:01.1102097Z",
+    "Timer": 8139,
+    "EndDate": "2024-04-20T08:29:40.1102097Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u0631\u062F\u0648\u0634 \u0627\u0641\u0632\u0627\u06CC\u0634 \u0641\u0634\u0627\u0631 \u0622\u0628 \u0627\u0650\u06A9\u0648 \u0648\u0627\u062A\u0631 \u0645\u062F\u0644 EW-1220 ",
+    "Url": "/product/dkp-9917796/\u0633\u0631\u062F\u0648\u0634-\u0627\u0641\u0632\u0627\u06CC\u0634-\u0641\u0634\u0627\u0631-\u0622\u0628-\u0627\u06A9\u0648-\u0648\u0627\u062A\u0631-\u0645\u062F\u0644-ew-1220",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/8285c3288a369d9bff603aa56a933c1d013fceeb_1668857078.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 390000,
+    "RrpPrice": 580000,
+    "SoldPercentage": 0,
+    "Discount": 190000,
+    "DiscountPercent": 33
   }
 ]
