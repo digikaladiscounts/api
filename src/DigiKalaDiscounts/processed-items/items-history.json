@@ -1,22 +1,5 @@
 [
   {
-    "Id": "9917796",
-    "AddDate": "2024-04-27T18:13:27.7925558Z",
-    "Timer": 8191,
-    "EndDate": "2024-04-27T20:29:58.7925558Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0633\u0631\u062F\u0648\u0634 \u0627\u0641\u0632\u0627\u06CC\u0634 \u0641\u0634\u0627\u0631 \u0622\u0628 \u0627\u0650\u06A9\u0648 \u0648\u0627\u062A\u0631 \u0645\u062F\u0644 EW-1220 ",
-    "Url": "/product/dkp-9917796/\u0633\u0631\u062F\u0648\u0634-\u0627\u0641\u0632\u0627\u06CC\u0634-\u0641\u0634\u0627\u0631-\u0622\u0628-\u0627\u06A9\u0648-\u0648\u0627\u062A\u0631-\u0645\u062F\u0644-ew-1220",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/8285c3288a369d9bff603aa56a933c1d013fceeb_1668857078.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 399000,
-    "RrpPrice": 580000,
-    "SoldPercentage": 0,
-    "Discount": 181000,
-    "DiscountPercent": 31
-  },
-  {
     "Id": "13729756",
     "AddDate": "2024-04-27T20:11:31.1430665Z",
     "Timer": 1108,
@@ -9467,5 +9450,22 @@
     "SoldPercentage": 0,
     "Discount": 155000,
     "DiscountPercent": 41
+  },
+  {
+    "Id": "14038099",
+    "AddDate": "2024-04-29T18:15:31.3322843Z",
+    "Timer": 8067,
+    "EndDate": "2024-04-29T20:29:58.3322843Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0627\u0633\u067E\u0631\u0633\u0648\u0633\u0627\u0632 \u0633\u0641\u0631\u06CC \u0627\u0633\u062A\u0627\u0631\u0633\u0648 \u0645\u062F\u0644 Nanopresso",
+    "Url": "/product/dkp-14038099/\u0627\u0633\u067E\u0631\u0633\u0648\u0633\u0627\u0632-\u0633\u0641\u0631\u06CC-\u0627\u0633\u062A\u0627\u0631\u0633\u0648-\u0645\u062F\u0644-nanopresso",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/36b1e32ebb0bc36fa3f16e0a640de1e52f17329d_1704784722.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1299000,
+    "RrpPrice": 1400000,
+    "SoldPercentage": 0,
+    "Discount": 101000,
+    "DiscountPercent": 7
   }
 ]
