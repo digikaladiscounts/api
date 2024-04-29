@@ -1,39 +1,5 @@
 [
   {
-    "Id": "15241925",
-    "AddDate": "2024-04-27T12:19:09.4381107Z",
-    "Timer": 13250,
-    "EndDate": "2024-04-27T15:59:59.4381107Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0645\u0631\u062F\u0627\u0646\u0647 \u067E\u0644\u06CC\u0633 \u0645\u062F\u0644 23236 NAVY BLUE 5518140",
-    "Url": "/product/dkp-15241925/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0645\u0631\u062F\u0627\u0646\u0647-\u067E\u0644\u06CC\u0633-\u0645\u062F\u0644-23236-navy-blue-5518140",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/30b7bce733cf65157d07b5e428a97484a612a3e7_1713947001.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 875000,
-    "RrpPrice": 4000000,
-    "SoldPercentage": 0,
-    "Discount": 3125000,
-    "DiscountPercent": 78
-  },
-  {
-    "Id": "14753671",
-    "AddDate": "2024-04-27T12:19:09.1362634Z",
-    "Timer": 13250,
-    "EndDate": "2024-04-27T15:59:59.1362634Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0641\u0631\u06CC\u0645 \u0639\u06CC\u0646\u06A9 \u0637\u0628\u06CC \u0645\u062F\u0644 \u0648\u06CC",
-    "Url": "/product/dkp-14753671/\u0641\u0631\u06CC\u0645-\u0639\u06CC\u0646\u06A9-\u0637\u0628\u06CC-\u0645\u062F\u0644-\u0648\u06CC",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/da7e490c33ef60a6c95d0a58663e04655e9d3baf_1709823974.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 375000,
-    "RrpPrice": 2000000,
-    "SoldPercentage": 0,
-    "Discount": 1625000,
-    "DiscountPercent": 81
-  },
-  {
     "Id": "13867812",
     "AddDate": "2024-04-27T14:09:55.4521428Z",
     "Timer": 109204,
@@ -9467,5 +9433,22 @@
     "SoldPercentage": 32,
     "Discount": 9800,
     "DiscountPercent": 10
+  },
+  {
+    "Id": "15202793",
+    "AddDate": "2024-04-29T12:22:20.9270001Z",
+    "Timer": 13057,
+    "EndDate": "2024-04-29T15:59:57.9270001Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u06A9\u0631\u0631\u0627 \u0645\u062F\u0644 23203 BRGO ",
+    "Url": "/product/dkp-15202793/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u06A9\u0631\u0631\u0627-\u0645\u062F\u0644-23203-brgo",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/ff7f2ad3016f250fd9d0397d200e2d6c9031bd87_1713712855.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 795000,
+    "RrpPrice": 4000000,
+    "SoldPercentage": 0,
+    "Discount": 3205000,
+    "DiscountPercent": 80
   }
 ]
