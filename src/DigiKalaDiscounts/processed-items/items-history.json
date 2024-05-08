@@ -1,22 +1,5 @@
 [
   {
-    "Id": "12467658",
-    "AddDate": "2024-05-06T00:54:40.4702743Z",
-    "Timer": 12915,
-    "EndDate": "2024-05-06T04:29:55.4702743Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0633\u0627\u0639\u062A \u0645\u0686\u06CC \u0639\u0642\u0631\u0628\u0647 \u0627\u06CC \u0632\u0646\u0627\u0646\u0647 \u0645\u0627\u06CC\u06A9\u0644 \u06A9\u0648\u0631\u0633 \u0645\u062F\u0644 AW-MK6559",
-    "Url": "/product/dkp-12467658/\u0633\u0627\u0639\u062A-\u0645\u0686\u06CC-\u0639\u0642\u0631\u0628\u0647-\u0627\u06CC-\u0632\u0646\u0627\u0646\u0647-\u0645\u0627\u06CC\u06A9\u0644-\u06A9\u0648\u0631\u0633-\u0645\u062F\u0644-aw-mk6559",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/aa747fb327b015d19d34a514927298666efa86da_1692781689.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 7872000,
-    "RrpPrice": 19200000,
-    "SoldPercentage": 0,
-    "Discount": 11328000,
-    "DiscountPercent": 59
-  },
-  {
     "Id": "648656",
     "AddDate": "2024-05-06T02:26:33.9679404Z",
     "Timer": 64941,
