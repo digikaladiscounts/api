@@ -20,7 +20,14 @@ jobs:
 
       - name: Run Project
         run: dotnet run --project ./src/DigiKalaDiscounts/DigiKalaDiscounts.csproj -t ${{ secrets.TELEGRAM_ACCESSTOKEN }} -i ${{ secrets.TELEGRAM_CHATID }}
-          
+         
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./scr/DigiKalaDiscounts/processed-items/
+          cname: api.digikaladiscounts.com
+     
       - name: Push changes to repo          
         run: |      
           git config http.sslVerify false
@@ -36,11 +43,5 @@ jobs:
           git pull --rebase publisher main
           git push publisher main       
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./scr/DigiKalaDiscounts/
-          cname: api.digikaladiscounts.com
      
 
