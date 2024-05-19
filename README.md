@@ -1,1 +1,1 @@
-# DigiKalaDiscounts
+# تخفیف های دیجی کالا
