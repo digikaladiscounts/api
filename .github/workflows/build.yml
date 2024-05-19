@@ -6,7 +6,6 @@ on:
   schedule:
     - cron: "0 */2 * * *"
 
-    
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,7 +19,19 @@ jobs:
 
       - name: Run Project
         run: dotnet run --project ./src/DigiKalaDiscounts/DigiKalaDiscounts.csproj -t ${{ secrets.TELEGRAM_ACCESSTOKEN }} -i ${{ secrets.TELEGRAM_CHATID }}
-          
+
+      - name: Verify processed-items folder
+        run: |
+          if [ -d "./src/DigiKalaDiscounts/processed-items" ]; then
+            echo "processed-items folder exists."
+          else
+            echo "processed-items folder does not exist."
+            exit 1
+          fi
+
+      - name: List contents of processed-items folder
+        run: ls -la ./src/DigiKalaDiscounts/processed-items/
+
       - name: Push changes to repo          
         run: |      
           git config http.sslVerify false
@@ -42,5 +53,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./src/DigiKalaDiscounts/processed-items/
           cname: api.digikaladiscounts.com
-     
-
