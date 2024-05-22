@@ -11626,5 +11626,22 @@
     "SoldPercentage": 0,
     "Discount": 4680,
     "DiscountPercent": 10
+  },
+  {
+    "Id": "15437598",
+    "AddDate": "2024-05-22T06:16:58.5830881Z",
+    "Timer": 7982,
+    "EndDate": "2024-05-22T08:30:00.5830881Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0686\u0645\u062F\u0627\u0646 \u062E\u0644\u0628\u0627\u0646\u06CC \u0641\u0648\u0631\u0648\u0627\u0631\u062F \u0645\u062F\u0644 FCLT5571TRAVEL CO",
+    "Url": "/product/dkp-15437598/\u0686\u0645\u062F\u0627\u0646-\u062E\u0644\u0628\u0627\u0646\u06CC-\u0641\u0648\u0631\u0648\u0627\u0631\u062F-\u0645\u062F\u0644-fclt5571travel-co",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/060cfbccf916658a1bca0c91d68b3836238d483d_1715616226.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2695000,
+    "RrpPrice": 5445000,
+    "SoldPercentage": 0,
+    "Discount": 2750000,
+    "DiscountPercent": 51
   }
 ]
