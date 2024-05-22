@@ -10657,5 +10657,39 @@
     "SoldPercentage": 0,
     "Discount": 1400,
     "DiscountPercent": 1
+  },
+  {
+    "Id": "15427110",
+    "AddDate": "2024-05-22T10:13:12.7317427Z",
+    "Timer": 6408,
+    "EndDate": "2024-05-22T12:00:00.7317427Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0645\u0631\u062F\u0627\u0646\u0647 \u0622\u0644\u0628\u0631\u062A \u0648\u06AF \u0645\u062F\u0644 JS8553C35-P242 Polarized Avantgarde Visionary",
+    "Url": "/product/dkp-15427110/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0645\u0631\u062F\u0627\u0646\u0647-\u0622\u0644\u0628\u0631\u062A-\u0648\u06AF-\u0645\u062F\u0644-js8553c35-p242-polarized-avantgarde-visionary",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/cac7ade73cf98d0748ce681f59de9c3c33c8e3f8_1715530936.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1857000,
+    "RrpPrice": 6190000,
+    "SoldPercentage": 0,
+    "Discount": 4333000,
+    "DiscountPercent": 70
+  },
+  {
+    "Id": "2123250",
+    "AddDate": "2024-05-22T10:13:06.524897Z",
+    "Timer": 123354,
+    "EndDate": "2024-05-23T20:29:00.524897Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0645\u06CC\u06AF\u0648 \u0633\u0627\u06CC\u0632 60-51 \u0628\u06CC\u0633\u062A\u0648\u0646 - 500 \u06AF\u0631\u0645",
+    "Url": "/product/dkp-2123250/\u0645\u06CC\u06AF\u0648-\u0633\u0627\u06CC\u0632-60-51-\u0628\u06CC\u0633\u062A\u0648\u0646-\u0648\u0632\u0646-500-\u06AF\u0631\u0645",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/113929814.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 329990,
+    "RrpPrice": 424950,
+    "SoldPercentage": 0,
+    "Discount": 94960,
+    "DiscountPercent": 22
   }
 ]
