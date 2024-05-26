@@ -9212,5 +9212,22 @@
     "SoldPercentage": 0,
     "Discount": 691000,
     "DiscountPercent": 12
+  },
+  {
+    "Id": "1590848",
+    "AddDate": "2024-05-26T04:14:17.205646Z",
+    "Timer": 58542,
+    "EndDate": "2024-05-26T20:29:59.205646Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u067E\u0644\u0648\u067E\u0632 \u0645\u06CC\u06AF\u0644 \u0645\u062F\u0644 GRC860",
+    "Url": "/product/dkp-1590848/\u067E\u0644\u0648\u067E\u0632-\u0645\u06CC\u06AF\u0644-\u0645\u062F\u0644-grc860",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/112181078.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 4080000,
+    "RrpPrice": 4390000,
+    "SoldPercentage": 0,
+    "Discount": 310000,
+    "DiscountPercent": 7
   }
 ]
