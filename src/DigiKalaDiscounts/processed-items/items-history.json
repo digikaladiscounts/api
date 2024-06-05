@@ -1,39 +1,5 @@
 [
   {
-    "Id": "12860551",
-    "AddDate": "2024-06-03T10:16:32.2884877Z",
-    "Timer": 6203,
-    "EndDate": "2024-06-03T11:59:55.2884877Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0632\u06CC\u0631 \u0627\u0646\u062F\u0627\u0632 \u0633\u0641\u0631\u06CC 12 \u0646\u0641\u0631\u0647 \u0645\u062F\u0644 L01",
-    "Url": "/product/dkp-12860551/\u0632\u06CC\u0631-\u0627\u0646\u062F\u0627\u0632-\u0633\u0641\u0631\u06CC-12-\u0646\u0641\u0631\u0647-\u0645\u062F\u0644-l01",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/7340626f2af88d0495392a687c7f264acbeb142f_1696183171.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 164300,
-    "RrpPrice": 265000,
-    "SoldPercentage": 0,
-    "Discount": 100700,
-    "DiscountPercent": 38
-  },
-  {
-    "Id": "14765024",
-    "AddDate": "2024-06-03T10:16:34.1258822Z",
-    "Timer": 6202,
-    "EndDate": "2024-06-03T11:59:56.1258822Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0645\u0627\u0633\u0627\u0698\u0648\u0631 \u0628\u0631\u0642\u06CC \u0627\u0645 \u062F\u06CC \u0627\u0686 \u0627\u0644 \u0645\u062F\u0644 Gun",
-    "Url": "/product/dkp-14765024/\u0645\u0627\u0633\u0627\u0698\u0648\u0631-\u0628\u0631\u0642\u06CC-mdhl-\u0645\u062F\u0644-massage-gun-\u0644\u0637\u0641\u0627-\u0627\u06CC\u0631\u0627\u062F-\u0631\u0648-\u062E\u0648\u062F\u062A\u0648\u0646-\u062A\u0635\u062D\u06CC\u062D-\u06A9\u0646\u06CC\u062F-\u0628\u0627-\u062A\u0634\u06A9\u0631",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/e85077549e2e01b17e1c4a36f8b48c6d7045247b_1709984902.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 1106700,
-    "RrpPrice": 1190000,
-    "SoldPercentage": 0,
-    "Discount": 83300,
-    "DiscountPercent": 7
-  },
-  {
     "Id": "15562540",
     "AddDate": "2024-06-03T12:24:21.6476298Z",
     "Timer": 12934,
@@ -8005,5 +7971,22 @@
     "SoldPercentage": 0,
     "Discount": 168000,
     "DiscountPercent": 12
+  },
+  {
+    "Id": "2375134",
+    "AddDate": "2024-06-05T12:23:40.8656069Z",
+    "Timer": 12974,
+    "EndDate": "2024-06-05T15:59:54.8656069Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0627\u0633\u067E\u06CC\u06A9\u0631 \u062F\u0633\u06A9\u062A\u0627\u067E \u062A\u0633\u06A9\u0648 \u0645\u062F\u0644 TS 2189",
+    "Url": "/product/dkp-2375134/\u0627\u0633\u067E\u06CC\u06A9\u0631-\u062F\u0633\u06A9\u062A\u0627\u067E-\u062A\u0633\u06A9\u0648-\u0645\u062F\u0644-ts-2189",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/119223688.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2197600,
+    "RrpPrice": 2414400,
+    "SoldPercentage": 0,
+    "Discount": 216800,
+    "DiscountPercent": 9
   }
 ]
