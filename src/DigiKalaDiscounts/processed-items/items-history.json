@@ -1,22 +1,5 @@
 [
   {
-    "Id": "15351917",
-    "AddDate": "2024-06-04T02:28:48.2182753Z",
-    "Timer": 7267,
-    "EndDate": "2024-06-04T04:29:55.2182753Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0647\u0646\u062F\u0632\u0641\u0631\u06CC \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0645\u062F\u0644 Inpods 3",
-    "Url": "/product/dkp-15351917/\u0647\u0646\u062F\u0632\u0641\u0631\u06CC-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0645\u062F\u0644-inpods-3",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/f6db35416e9dbb84e3d66db37c9b2981bc080e35_1714742312.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 1100000,
-    "RrpPrice": 2200000,
-    "SoldPercentage": 0,
-    "Discount": 1100000,
-    "DiscountPercent": 50
-  },
-  {
     "Id": "11300248",
     "AddDate": "2024-06-04T06:17:20.0590748Z",
     "Timer": 223895,
