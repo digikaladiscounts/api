@@ -1,39 +1,5 @@
 [
   {
-    "Id": "12294673",
-    "AddDate": "2024-06-08T12:21:20.4816491Z",
-    "Timer": 115713,
-    "EndDate": "2024-06-09T20:29:53.4816491Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u062F\u0648\u0631\u0628\u06CC\u0646 \u0639\u06A9\u0627\u0633\u06CC \u0686\u0627\u067E \u0633\u0631\u06CC\u0639 \u0641\u0648\u062C\u06CC \u0641\u06CC\u0644\u0645 \u0645\u062F\u0644 Instax Mini 12",
-    "Url": "/product/dkp-12294673/\u062F\u0648\u0631\u0628\u06CC\u0646-\u0639\u06A9\u0627\u0633\u06CC-\u0686\u0627\u067E-\u0633\u0631\u06CC\u0639-\u0641\u0648\u062C\u06CC-\u0641\u06CC\u0644\u0645-\u0645\u062F\u0644-instax-mini-12",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/c1d73a4236c2d523485c139beedbc4124f9d6df0_1693908144.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 6299000,
-    "RrpPrice": 7500000,
-    "SoldPercentage": 0,
-    "Discount": 1201000,
-    "DiscountPercent": 16
-  },
-  {
-    "Id": "15369769",
-    "AddDate": "2024-06-08T12:21:21.6536792Z",
-    "Timer": 13112,
-    "EndDate": "2024-06-08T15:59:53.6536792Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u062F\u0648\u0631\u0628\u06CC\u0646 \u0645\u062F\u0627\u0631\u0628\u0633\u062A\u0647 \u0622\u0646\u0627\u0644\u0648\u06AF \u0633\u0648\u0646\u06CC \u0645\u062F\u0644 SSC-N21A",
-    "Url": "/product/dkp-15369769/\u062F\u0648\u0631\u0628\u06CC\u0646-\u0645\u062F\u0627\u0631\u0628\u0633\u062A\u0647-\u0622\u0646\u0627\u0644\u0648\u06AF-\u0633\u0648\u0646\u06CC-\u0645\u062F\u0644-ssc-n21a",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/0aea5765fa3a9ebd08b436ca0c4265a14cfcbb85_1715493095.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 1116000,
-    "RrpPrice": 1800000,
-    "SoldPercentage": 0,
-    "Discount": 684000,
-    "DiscountPercent": 38
-  },
-  {
     "Id": "15536379",
     "AddDate": "2024-06-08T14:12:12.2303904Z",
     "Timer": 22661,
@@ -8209,5 +8175,22 @@
     "SoldPercentage": 0,
     "Discount": 6000,
     "DiscountPercent": 10
+  },
+  {
+    "Id": "15641402",
+    "AddDate": "2024-06-10T12:24:06.8111063Z",
+    "Timer": 12946,
+    "EndDate": "2024-06-10T15:59:52.8111063Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u067E\u0627\u0631\u0686\u0647 \u0645\u0644\u062D\u0641\u0647 \u0645\u062F\u0644 \u062E\u0637 \u062E\u0637\u06CC \u06A9\u062F\u00A0Z",
+    "Url": "/product/dkp-15641402/\u067E\u0627\u0631\u0686\u0647-\u0645\u0644\u062D\u0641\u0647-\u0645\u062F\u0644-\u062E\u0637-\u062E\u0637\u06CC-\u06A9\u062F-z",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/2d61f7834f87772bafa0d4339826b85b7bcc3a55_1717358451.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 39200,
+    "RrpPrice": 49000,
+    "SoldPercentage": 0,
+    "Discount": 9800,
+    "DiscountPercent": 20
   }
 ]
