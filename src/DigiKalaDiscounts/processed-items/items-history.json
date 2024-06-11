@@ -1,22 +1,5 @@
 [
   {
-    "Id": "2812350",
-    "AddDate": "2024-06-09T12:22:35.6291545Z",
-    "Timer": 115637,
-    "EndDate": "2024-06-10T20:29:52.6291545Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u06A9\u0627\u0628\u0644 \u062A\u0628\u062F\u06CC\u0644 USB-C \u0628\u0647 \u0644\u0627\u06CC\u062A\u0646\u06CC\u0646\u06AF \u0627\u067E\u0644 \u0637\u0648\u0644 1 \u0645\u062A\u0631",
-    "Url": "/product/dkp-2812350/\u06A9\u0627\u0628\u0644-\u062A\u0628\u062F\u06CC\u0644-usb-c-\u0628\u0647-\u0644\u0627\u06CC\u062A\u0646\u06CC\u0646\u06AF-\u0627\u067E\u0644-\u0637\u0648\u0644-1-\u0645\u062A\u0631",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/121071184.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 479000,
-    "RrpPrice": 1050000,
-    "SoldPercentage": 0,
-    "Discount": 571000,
-    "DiscountPercent": 54
-  },
-  {
     "Id": "15371389",
     "AddDate": "2024-06-09T16:14:22.8009258Z",
     "Timer": 15330,
@@ -9382,5 +9365,22 @@
     "SoldPercentage": 40,
     "Discount": 416150,
     "DiscountPercent": 41
+  },
+  {
+    "Id": "15519062",
+    "AddDate": "2024-06-11T12:25:02.5749261Z",
+    "Timer": 12890,
+    "EndDate": "2024-06-11T15:59:52.5749261Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0686\u0645\u062F\u0627\u0646 \u06A9\u0627\u062F\u0646\u0632\u0627 \u0645\u062F\u0644 \u0622\u0631\u0627\u06CC\u0634\u06CC",
+    "Url": "/product/dkp-15519062/\u0686\u0645\u062F\u0627\u0646-\u06A9\u0627\u062F\u0646\u0632\u0627-\u0645\u062F\u0644-\u0633\u0627\u062A\u06CC\u0646",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/1280493278aa7c0f00a20ef50e97fca20eb59170_1716276683.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 792000,
+    "RrpPrice": 1320000,
+    "SoldPercentage": 0,
+    "Discount": 528000,
+    "DiscountPercent": 40
   }
 ]
