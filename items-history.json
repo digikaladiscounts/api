@@ -8141,5 +8141,39 @@
     "SoldPercentage": 0,
     "Discount": 353030,
     "DiscountPercent": 11
+  },
+  {
+    "Id": "15390433",
+    "AddDate": "2024-06-16T12:22:08.4632736Z",
+    "Timer": 13062,
+    "EndDate": "2024-06-16T15:59:50.4632736Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0645\u062D\u0627\u0641\u0638 \u0686\u0634\u0645 \u0645\u062F\u0644 Z3335 Anti Blue Light",
+    "Url": "/product/dkp-15390433/\u0639\u06CC\u0646\u06A9-\u0645\u062D\u0627\u0641\u0638-\u0686\u0634\u0645-\u0645\u062F\u0644-z3335-anti-blue-light",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/a19547d7b69c0b893f633f4864ace0c8a83da479_1715164305.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 398000,
+    "RrpPrice": 730000,
+    "SoldPercentage": 0,
+    "Discount": 332000,
+    "DiscountPercent": 45
+  },
+  {
+    "Id": "15259939",
+    "AddDate": "2024-06-16T12:22:08.4632736Z",
+    "Timer": 13062,
+    "EndDate": "2024-06-16T15:59:50.4632736Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0627\u0631\u0648\u0627\u0634 \u0627\u0633\u062A\u0631\u06CC\u0645 \u0645\u062F\u0644 YLQ-26S-100C",
+    "Url": "/product/dkp-15259939/\u06A9\u0627\u0631\u0648\u0627\u0634-\u0627\u0633\u062A\u0631\u06CC\u0645-\u0645\u062F\u0644-ylq-26s-100c",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9d80d7812510f935d8c2dd37556a1d6e960b437a_1714048624.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 3901000,
+    "RrpPrice": 4150000,
+    "SoldPercentage": 0,
+    "Discount": 249000,
+    "DiscountPercent": 6
   }
 ]
