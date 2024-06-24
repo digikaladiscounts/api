@@ -11337,5 +11337,39 @@
     "SoldPercentage": 0,
     "Discount": 1000240,
     "DiscountPercent": 37
+  },
+  {
+    "Id": "14466154",
+    "AddDate": "2024-06-24T14:12:26.5352178Z",
+    "Timer": 108981,
+    "EndDate": "2024-06-25T20:28:47.5352178Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06AF\u0648\u0634\u06CC \u0645\u0648\u0628\u0627\u06CC\u0644 \u0633\u0627\u0645\u0633\u0648\u0646\u06AF \u0645\u062F\u0644 Galaxy S24 \u062F\u0648 \u0633\u06CC\u0645 \u06A9\u0627\u0631\u062A \u0638\u0631\u0641\u06CC\u062A 128 \u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A \u0648 \u0631\u0645 8 \u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A - \u0648\u06CC\u062A\u0646\u0627\u0645",
+    "Url": "/product/dkp-14466154/\u06AF\u0648\u0634\u06CC-\u0645\u0648\u0628\u0627\u06CC\u0644-\u0633\u0627\u0645\u0633\u0648\u0646\u06AF-\u0645\u062F\u0644-galaxy-s24-\u062F\u0648-\u0633\u06CC\u0645-\u06A9\u0627\u0631\u062A-\u0638\u0631\u0641\u06CC\u062A-256-\u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A-\u0648-\u0631\u0645-8-\u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A-\u0648\u06CC\u062A\u0646\u0627\u0645-clone-1-of-14129480",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/70ad95ae0ddd9e0645439aa2e3f58cfa659c3fe4_1708157847.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 51889000,
+    "RrpPrice": 52949000,
+    "SoldPercentage": 0,
+    "Discount": 1060000,
+    "DiscountPercent": 2
+  },
+  {
+    "Id": "15058180",
+    "AddDate": "2024-06-24T14:12:21.1046744Z",
+    "Timer": 22586,
+    "EndDate": "2024-06-24T20:28:47.1046744Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0644\u06CC\u0648\u0627\u0646 \u06CC\u06A9\u0628\u0627\u0631 \u0645\u0635\u0631\u0641 \u0645\u06A9\u0633\u0646\u0633 \u0645\u062F\u0644 pc \u0628\u0633\u062A\u0647 50 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-15058180/\u0644\u06CC\u0648\u0627\u0646-\u06CC\u06A9\u0628\u0627\u0631-\u0645\u0635\u0631\u0641-\u0645\u06A9\u0633\u0646\u0633-\u0645\u062F\u0644-pc-\u0628\u0633\u062A\u0647-50-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/037df98a40185b7e07c8a50c7e8106d1e3aaad08_1713256430.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 36900,
+    "RrpPrice": 62000,
+    "SoldPercentage": 88,
+    "Discount": 25100,
+    "DiscountPercent": 40
   }
 ]
