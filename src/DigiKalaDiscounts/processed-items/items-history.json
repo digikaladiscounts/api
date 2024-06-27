@@ -10555,5 +10555,39 @@
     "SoldPercentage": 61,
     "Discount": 1400,
     "DiscountPercent": 1
+  },
+  {
+    "Id": "12310265",
+    "AddDate": "2024-06-27T12:24:20.2723062Z",
+    "Timer": 12926,
+    "EndDate": "2024-06-27T15:59:46.2723062Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": " \u0641\u0631\u06CC\u0645 \u0639\u06CC\u0646\u06A9 \u0637\u0628\u06CC \u0645\u062F\u0644 CG7704C690-P265 Polarized Double Switch \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u06A9\u0627\u0648\u0631 \u0622\u0641\u062A\u0627\u0628\u06CC",
+    "Url": "/product/dkp-12310265/\u0641\u0631\u06CC\u0645-\u0639\u06CC\u0646\u06A9-\u0637\u0628\u06CC-\u0645\u062F\u0644-cg7704c690-p265-polarized-double-switch-\u0628\u0647-\u0647\u0645\u0631\u0627\u0647-\u06A9\u0627\u0648\u0631-\u0622\u0641\u062A\u0627\u0628\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/89be18918b630586cb5cae6fa9f19c1fcd7e1896_1691849072.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2049000,
+    "RrpPrice": 5180000,
+    "SoldPercentage": 0,
+    "Discount": 3131000,
+    "DiscountPercent": 60
+  },
+  {
+    "Id": "15891370",
+    "AddDate": "2024-06-27T12:24:20.6438697Z",
+    "Timer": 12925,
+    "EndDate": "2024-06-27T15:59:45.6438697Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0634\u0644\u0648\u0627\u0631 \u0632\u0646\u0627\u0646\u0647 \u0645\u062F\u0644 \u062A\u0628\u062A\u06CC \u06F0\u06F1",
+    "Url": "/product/dkp-15891370/\u0634\u0644\u0648\u0627\u0631-\u0632\u0646\u0627\u0646\u0647-\u0645\u062F\u0644-\u062A\u0628\u062A\u06CC-\u06F0\u06F1",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/b6a32946c12b61bfea565d0c50ede7f1055f73b1_1719165273.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 450000,
+    "RrpPrice": 900000,
+    "SoldPercentage": 0,
+    "Discount": 450000,
+    "DiscountPercent": 50
   }
 ]
