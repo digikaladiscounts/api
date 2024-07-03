@@ -1,22 +1,5 @@
 [
   {
-    "Id": "9639430",
-    "AddDate": "2024-07-01T10:16:03.3409628Z",
-    "Timer": 123176,
-    "EndDate": "2024-07-02T20:28:59.3409628Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u06AF\u0648\u0634\u06CC \u0645\u0648\u0628\u0627\u06CC\u0644 \u0646\u0648\u06A9\u06CC\u0627 \u0645\u062F\u0644 8210 4G \u062F\u0648 \u0633\u06CC\u0645 \u06A9\u0627\u0631\u062A ",
-    "Url": "/product/dkp-9639430/\u06AF\u0648\u0634\u06CC-\u0645\u0648\u0628\u0627\u06CC\u0644-\u0646\u0648\u06A9\u06CC\u0627-\u0645\u062F\u0644-8210-4g-\u062F\u0648-\u0633\u06CC\u0645-\u06A9\u0627\u0631\u062A",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/bdeb8166337e67ed7b26f7ad75b6410ff598384c_1665836967.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 2639900,
-    "RrpPrice": 2699000,
-    "SoldPercentage": 0,
-    "Discount": 59100,
-    "DiscountPercent": 2
-  },
-  {
     "Id": "11562751",
     "AddDate": "2024-07-01T12:25:49.9033371Z",
     "Timer": 115389,
@@ -10436,5 +10419,22 @@
     "SoldPercentage": 0,
     "Discount": 160000,
     "DiscountPercent": 11
+  },
+  {
+    "Id": "10947891",
+    "AddDate": "2024-07-03T12:24:48.9134098Z",
+    "Timer": 115450,
+    "EndDate": "2024-07-04T20:28:58.9134098Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0648\u0644\u0631 \u06AF\u0627\u0632\u06CC 12 \u0647\u0632\u0627\u0631 \u06AF\u0631\u06CC\u0646 \u0645\u062F\u0644 GPS-H12P1T1A/MA",
+    "Url": "/product/dkp-10947891/\u06A9\u0648\u0644\u0631-\u06AF\u0627\u0632\u06CC-12-\u0647\u0632\u0627\u0631-\u06AF\u0631\u06CC\u0646-\u0645\u062F\u0644-gps-h12p1t1ama",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/1fa785099033a0bd7eba2eb199aad1e5319b2a8e_1679904856.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 21850000,
+    "RrpPrice": 26675000,
+    "SoldPercentage": 0,
+    "Discount": 4825000,
+    "DiscountPercent": 18
   }
 ]
