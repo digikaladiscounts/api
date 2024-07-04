@@ -10317,5 +10317,22 @@
     "SoldPercentage": 0,
     "Discount": 755000,
     "DiscountPercent": 52
+  },
+  {
+    "Id": "2926269",
+    "AddDate": "2024-07-04T04:15:01.801519Z",
+    "Timer": 58437,
+    "EndDate": "2024-07-04T20:28:58.801519Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0646\u0648\u0627\u0631 \u0628\u0647\u062F\u0627\u0634\u062A\u06CC \u0628\u0627\u0644\u062F\u0627\u0631 \u0645\u0627\u06CC \u0644\u06CC\u062F\u06CC \u0645\u062F\u0644 Classic Green \u0633\u0627\u06CC\u0632 \u0645\u062A\u0648\u0633\u0637 \u0628\u0633\u062A\u0647 10 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-2926269/\u0646\u0648\u0627\u0631-\u0628\u0647\u062F\u0627\u0634\u062A\u06CC-\u0628\u0627\u0644\u062F\u0627\u0631-\u0645\u0627\u06CC-\u0644\u06CC\u062F\u06CC-\u0645\u062F\u0644-classic-green-\u0633\u0627\u06CC\u0632-\u0645\u062A\u0648\u0633\u0637-\u0628\u0633\u062A\u0647-10-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/43655c087fafbb7089ea14206338e23e7143d88b_1691328110.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 20100,
+    "RrpPrice": 24000,
+    "SoldPercentage": 99,
+    "Discount": 3900,
+    "DiscountPercent": 16
   }
 ]
