@@ -10538,5 +10538,22 @@
     "SoldPercentage": 37,
     "Discount": 1400,
     "DiscountPercent": 1
+  },
+  {
+    "Id": "1024255",
+    "AddDate": "2024-07-11T10:13:22.3086284Z",
+    "Timer": 36994,
+    "EndDate": "2024-07-11T20:29:56.3086284Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0634\u06CC\u0631 \u067E\u0631 \u0686\u0631\u0628 \u062F\u0648\u0645\u06CC\u0646\u0648 - 0.2 \u0644\u06CC\u062A\u0631 \u0628\u0633\u062A\u0647 6 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-1024255/\u0634\u06CC\u0631-\u067E\u0631-\u0686\u0631\u0628-\u062F\u0648\u0645\u06CC\u0646\u0648-02-\u0644\u06CC\u062A\u0631-\u0628\u0633\u062A\u0647-6-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/670a09b1926a5d0989092711a8eea713951da91e_1692512257.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 45900,
+    "RrpPrice": 60000,
+    "SoldPercentage": 0,
+    "Discount": 14100,
+    "DiscountPercent": 24
   }
 ]
