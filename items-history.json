@@ -1,22 +1,5 @@
 [
   {
-    "Id": "11960672",
-    "AddDate": "2024-07-19T12:23:47.3090646Z",
-    "Timer": 12967,
-    "EndDate": "2024-07-19T15:59:54.3090646Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0686\u0645\u062F\u0627\u0646 \u062E\u0644\u0628\u0627\u0646\u06CC \u0641\u0648\u0631\u0648\u0627\u0631\u062F \u06A9\u062F FCLT5553",
-    "Url": "/product/dkp-11960672/\u0686\u0645\u062F\u0627\u0646-\u062E\u0644\u0628\u0627\u0646\u06CC-\u0641\u0648\u0631\u0648\u0627\u0631\u062F-\u06A9\u062F-fclt5553",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9354251c3ba641cc83e16c2103a6f01f4085c1a4_1688830189.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 2859000,
-    "RrpPrice": 4680000,
-    "SoldPercentage": 0,
-    "Discount": 1821000,
-    "DiscountPercent": 39
-  },
-  {
     "Id": "14490656",
     "AddDate": "2024-07-19T16:15:29.3586036Z",
     "Timer": 15264,
@@ -9059,5 +9042,22 @@
     "SoldPercentage": 0,
     "Discount": 132000,
     "DiscountPercent": 40
+  },
+  {
+    "Id": "9936870",
+    "AddDate": "2024-07-21T14:11:29.5535586Z",
+    "Timer": 6504,
+    "EndDate": "2024-07-21T15:59:53.5535586Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u0646\u062F\u0632\u0641\u0631\u06CC \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0644\u0646\u0648\u0648 \u0645\u062F\u0644 Live Pods XT80",
+    "Url": "/product/dkp-9936870/\u0647\u0646\u062F\u0632\u0641\u0631\u06CC-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0644\u0646\u0648\u0648-\u0645\u062F\u0644-live-pods-xt80",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/46b24bb68a7aad2a877c841db7d71b2f87bd4fdd_1669028559.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 999000,
+    "RrpPrice": 1270000,
+    "SoldPercentage": 0,
+    "Discount": 271000,
+    "DiscountPercent": 21
   }
 ]
