@@ -11235,5 +11235,22 @@
     "SoldPercentage": 0,
     "Discount": 10500,
     "DiscountPercent": 15
+  },
+  {
+    "Id": "14801943",
+    "AddDate": "2024-07-22T18:17:16.4719975Z",
+    "Timer": 7956,
+    "EndDate": "2024-07-22T20:29:52.4719975Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u0627\u0639\u062A \u0647\u0648\u0634\u0645\u0646\u062F \u0648\u0631\u0646\u0627 \u0645\u062F\u0644 W49 ultra with 7 Bands",
+    "Url": "/product/dkp-14801943/\u0633\u0627\u0639\u062A-\u0647\u0648\u0634\u0645\u0646\u062F-\u0648\u0631\u0646\u0627-\u0645\u062F\u0644-w49-ultra-with-7-bands",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/49583a51f0f0e51843718c0a14bda58c683e1bdf_1718703853.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 541750,
+    "RrpPrice": 985000,
+    "SoldPercentage": 76,
+    "Discount": 443250,
+    "DiscountPercent": 45
   }
 ]
