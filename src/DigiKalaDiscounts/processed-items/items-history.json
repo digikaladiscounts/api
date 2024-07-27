@@ -1,39 +1,5 @@
 [
   {
-    "Id": "16088580",
-    "AddDate": "2024-07-25T06:18:45.2555522Z",
-    "Timer": 7867,
-    "EndDate": "2024-07-25T08:29:52.2555522Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0633\u0627\u0639\u062A \u0647\u0648\u0634\u0645\u0646\u062F \u0647\u0627\u06CC\u0646\u0648 \u062A\u06A9\u0648 \u0645\u062F\u0644 SQ-2 Amoled",
-    "Url": "/product/dkp-16088580/\u0633\u0627\u0639\u062A-\u0647\u0648\u0634\u0645\u0646\u062F-\u0647\u0627\u06CC\u0646\u0648-\u062A\u06A9\u0648-\u0645\u062F\u0644-sq-2-amoled",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/8a4b6c42cf0dab61e934ece27c7c52175eb80043_1721257872.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 1897000,
-    "RrpPrice": 3900000,
-    "SoldPercentage": 0,
-    "Discount": 2003000,
-    "DiscountPercent": 51
-  },
-  {
-    "Id": "11300248",
-    "AddDate": "2024-07-25T06:18:35.819647Z",
-    "Timer": 51017,
-    "EndDate": "2024-07-25T20:28:52.819647Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0645\u0631\u063A \u06A9\u0627\u0645\u0644 \u0631\u062A\u0628\u0647 A \u0633\u0645\u06CC\u0646 - 1600 \u06AF\u0631\u0645 ",
-    "Url": "/product/dkp-11300248/\u0645\u0631\u063A-\u06A9\u0627\u0645\u0644-\u0631\u062A\u0628\u0647-a-\u0633\u0645\u06CC\u0646-1600-\u06AF\u0631\u0645",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/1d8ba740a52ec6f8cfdb3543858f84e525dc2992_1683701840.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 123400,
-    "RrpPrice": 124800,
-    "SoldPercentage": 56,
-    "Discount": 1400,
-    "DiscountPercent": 1
-  },
-  {
     "Id": "1665999",
     "AddDate": "2024-07-25T08:16:51.7759406Z",
     "Timer": 43981,
@@ -14465,5 +14431,22 @@
     "SoldPercentage": 0,
     "Discount": 1000,
     "DiscountPercent": 4
+  },
+  {
+    "Id": "12413483",
+    "AddDate": "2024-07-27T08:14:52.824316Z",
+    "Timer": 44099,
+    "EndDate": "2024-07-27T20:29:51.824316Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0641\u0644\u0634 \u0645\u0645\u0648\u0631\u06CC \u062F\u06CC\u062A\u0627 \u067E\u0644\u0627\u0633 \u0645\u062F\u0644 DENIZ USB 2.0 \u0638\u0631\u0641\u06CC\u062A 64 \u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A",
+    "Url": "/product/dkp-12413483/\u0641\u0644\u0634-\u0645\u0645\u0648\u0631\u06CC-\u062F\u06CC\u062A\u0627-\u067E\u0644\u0627\u0633-\u0645\u062F\u0644-deniz-usb-20-\u0638\u0631\u0641\u06CC\u062A-64-\u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/860efdbf714edc124c8439b36f0641342f3b598b_1692269165.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 201000,
+    "RrpPrice": 242000,
+    "SoldPercentage": 0,
+    "Discount": 41000,
+    "DiscountPercent": 17
   }
 ]
