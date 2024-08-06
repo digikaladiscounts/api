@@ -11184,5 +11184,22 @@
     "SoldPercentage": 0,
     "Discount": 47200,
     "DiscountPercent": 16
+  },
+  {
+    "Id": "12077724",
+    "AddDate": "2024-08-06T14:12:47.9772987Z",
+    "Timer": 22620,
+    "EndDate": "2024-08-06T20:29:47.9772987Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0648\u0644\u0647 \u067E\u0634\u062A\u06CC \u0645\u062F\u0644 KL-5429 \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u062C\u0627\u0645\u062F\u0627\u062F\u06CC",
+    "Url": "/product/dkp-12077724/\u06A9\u0648\u0644\u0647-\u067E\u0634\u062A\u06CC-\u0645\u062F\u0644-kl-5429-\u0628\u0647-\u0647\u0645\u0631\u0627\u0647-\u062C\u0627\u0645\u062F\u0627\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/f39e0e307f9032a3a535de250d2d00d016d6640a_1689602578.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 327000,
+    "RrpPrice": 685000,
+    "SoldPercentage": 0,
+    "Discount": 358000,
+    "DiscountPercent": 52
   }
 ]
