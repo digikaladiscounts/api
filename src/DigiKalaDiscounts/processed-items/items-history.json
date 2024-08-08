@@ -1,22 +1,5 @@
 [
   {
-    "Id": "11305485",
-    "AddDate": "2024-08-06T10:14:31.1216204Z",
-    "Timer": 36917,
-    "EndDate": "2024-08-06T20:29:48.1216204Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0645\u06CC\u0646\u06CC \u0648\u0627\u0634 \u062C\u0646\u0631\u0627\u0644 \u062A\u06A9\u0646\u06CC\u06A9 \u0645\u062F\u0644 SH_MW3815",
-    "Url": "/product/dkp-11305485/\u0645\u06CC\u0646\u06CC-\u0648\u0627\u0634-\u062C\u0646\u0631\u0627\u0644-\u062A\u06A9\u0646\u06CC\u06A9-\u0645\u062F\u0644-sh-mw3815",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/f96962e1e84294cda0bb79c0457f891f2edf4d19_1683724342.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 5451360,
-    "RrpPrice": 6648000,
-    "SoldPercentage": 0,
-    "Discount": 1196640,
-    "DiscountPercent": 18
-  },
-  {
     "Id": "15537893",
     "AddDate": "2024-08-06T12:26:23.63088Z",
     "Timer": 12804,
@@ -10759,5 +10742,22 @@
     "SoldPercentage": 64,
     "Discount": 2600,
     "DiscountPercent": 2
+  },
+  {
+    "Id": "9485103",
+    "AddDate": "2024-08-08T12:24:54.5298473Z",
+    "Timer": 12893,
+    "EndDate": "2024-08-08T15:59:47.5298473Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u06CC\u0628\u0648\u0631\u062F \u0648 \u0645\u0627\u0648\u0633\u00A0\u0645\u062E\u0635\u0648\u0635 \u0628\u0627\u0632\u06CC \u06AF\u0644\u062F \u0627\u0633\u06A9\u0627\u0631 \u0645\u062F\u0644 KB9001",
+    "Url": "/product/dkp-9485103/\u06A9\u06CC\u0628\u0648\u0631\u062F-\u0648-\u0645\u0627\u0648\u0633-\u0645\u062E\u0635\u0648\u0635-\u0628\u0627\u0632\u06CC-\u06AF\u0644\u062F-\u0627\u0633\u06A9\u0627\u0631-\u0645\u062F\u0644-kb9001",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/153de02c04fd1a4c866aec33fb693f267a3429ef_1663436734.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 499900,
+    "RrpPrice": 685000,
+    "SoldPercentage": 0,
+    "Discount": 185100,
+    "DiscountPercent": 27
   }
 ]
