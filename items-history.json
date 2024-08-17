@@ -1,22 +1,5 @@
 [
   {
-    "Id": "16224687",
-    "AddDate": "2024-08-15T10:16:03.0164927Z",
-    "Timer": 6222,
-    "EndDate": "2024-08-15T11:59:45.0164927Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u067E\u0627\u0648\u0631\u0628\u0627\u0646\u06A9 \u0645\u062F\u0644 15PDZM \u0638\u0631\u0641\u06CC\u062A 10000 \u0645\u06CC\u0644\u06CC \u0622\u0645\u067E\u0631 \u0633\u0627\u0639\u062A",
-    "Url": "/product/dkp-16224687/\u067E\u0627\u0648\u0631\u0628\u0627\u0646\u06A9-\u0645\u062F\u0644-15pdzm-\u0638\u0631\u0641\u06CC\u062A-10000-\u0645\u06CC\u0644\u06CC-\u0622\u0645\u067E\u0631-\u0633\u0627\u0639\u062A",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/7eb3e3ac303900d426b805b225d2eb2c49340d23_1722256822.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 1123000,
-    "RrpPrice": 2280000,
-    "SoldPercentage": 0,
-    "Discount": 1157000,
-    "DiscountPercent": 51
-  },
-  {
     "Id": "16357725",
     "AddDate": "2024-08-15T12:25:42.9491038Z",
     "Timer": 12842,
@@ -12034,5 +12017,39 @@
     "SoldPercentage": 0,
     "Discount": 195000,
     "DiscountPercent": 2
+  },
+  {
+    "Id": "16378740",
+    "AddDate": "2024-08-17T12:22:25.4960729Z",
+    "Timer": 13055,
+    "EndDate": "2024-08-17T16:00:00.4960729Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0644\u0648\u0633\u06CC\u0627\u0646\u0648 \u0645\u062F\u0644 TR 8026 5617140 POLARIZED",
+    "Url": "/product/dkp-16378740/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0644\u0648\u0633\u06CC\u0627\u0646\u0648-\u0645\u062F\u0644-tr-8026-5617140-polarized",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/6568fa715f08a4d7b79ed3200b4e29003e570b50_1723472359.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 791000,
+    "RrpPrice": 4000000,
+    "SoldPercentage": 0,
+    "Discount": 3209000,
+    "DiscountPercent": 80
+  },
+  {
+    "Id": "8638295",
+    "AddDate": "2024-08-17T12:22:25.1466905Z",
+    "Timer": 13055,
+    "EndDate": "2024-08-17T16:00:00.1466905Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u0637\u0631 \u062C\u06CC\u0628\u06CC \u0645\u0631\u062F\u0627\u0646\u0647 \u0628\u0631\u0646\u062F\u06CC\u0646\u06CC \u0645\u062F\u0644 Man in Black \u062D\u062C\u0645 25 \u0645\u06CC\u0644\u06CC \u0644\u06CC\u062A\u0631",
+    "Url": "/product/dkp-8638295/\u0639\u0637\u0631-\u062C\u06CC\u0628\u06CC-\u0645\u0631\u062F\u0627\u0646\u0647-\u0628\u0631\u0646\u062F\u06CC\u0646\u06CC-\u0645\u062F\u0644-man-in-black-\u062D\u062C\u0645-25-\u0645\u06CC\u0644\u06CC-\u0644\u06CC\u062A\u0631",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/e31c14b1a37a323ddc617dc6e142227170b98807_1653917636.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 227000,
+    "RrpPrice": 395000,
+    "SoldPercentage": 0,
+    "Discount": 168000,
+    "DiscountPercent": 43
   }
 ]
