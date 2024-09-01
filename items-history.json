@@ -1,39 +1,5 @@
 [
   {
-    "Id": "16415021",
-    "AddDate": "2024-08-30T06:19:30.9882216Z",
-    "Timer": 7825,
-    "EndDate": "2024-08-30T08:29:55.9882216Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0645\u0631\u062F\u0627\u0646\u0647 \u0645\u062F\u0644 3372C81-P02 Polarized Matte Metal",
-    "Url": "/product/dkp-16415021/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0645\u0631\u062F\u0627\u0646\u0647-\u0645\u062F\u0644-3372c81-p02-polarized-matte-metal",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9c6685ff901e106587fcc209eaabfe1c6c92ed4e_1723643667.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 1595000,
-    "RrpPrice": 4360000,
-    "SoldPercentage": 0,
-    "Discount": 2765000,
-    "DiscountPercent": 63
-  },
-  {
-    "Id": "16339099",
-    "AddDate": "2024-08-30T06:19:31.661143Z",
-    "Timer": 51024,
-    "EndDate": "2024-08-30T20:29:55.661143Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0634\u0648\u0645\u06CC\u0632 \u0622\u0633\u062A\u06CC\u0646 \u0628\u0644\u0646\u062F \u0632\u0646\u0627\u0646\u0647 \u0645\u062F\u0644 \u06A9\u0646\u062F\u06CC",
-    "Url": "/product/dkp-16339099/\u0634\u0648\u0645\u06CC\u0632-\u0622\u0633\u062A\u06CC\u0646-\u0628\u0644\u0646\u062F-\u0632\u0646\u0627\u0646\u0647-\u0645\u062F\u0644-\u06A9\u0646\u062F\u06CC",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/1360d38d980f4a18c4a9e08129127ca7bde784b6_1723924926.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 998000,
-    "RrpPrice": 1398000,
-    "SoldPercentage": 0,
-    "Discount": 400000,
-    "DiscountPercent": 29
-  },
-  {
     "Id": "3447048",
     "AddDate": "2024-08-30T08:18:06.4515631Z",
     "Timer": 43909,
@@ -10283,5 +10249,22 @@
     "SoldPercentage": 0,
     "Discount": 13600,
     "DiscountPercent": 8
+  },
+  {
+    "Id": "12788729",
+    "AddDate": "2024-09-01T08:16:27.556659Z",
+    "Timer": 44007,
+    "EndDate": "2024-09-01T20:29:54.556659Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06AF\u0648\u0634\u06CC \u0645\u0648\u0628\u0627\u06CC\u0644 \u0631\u0646\u0633\u0648 \u0645\u062F\u0644 Nep N11 \u062F\u0648 \u0633\u06CC\u0645 \u06A9\u0627\u0631\u062A \u0638\u0631\u0641\u06CC\u062A 128 \u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A \u0648 \u0631\u0645 8 \u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A - \u0627\u06A9\u062A\u06CC\u0648",
+    "Url": "/product/dkp-12788729/\u06AF\u0648\u0634\u06CC-\u0645\u0648\u0628\u0627\u06CC\u0644-\u0631\u0646\u0633\u0648-\u0645\u062F\u0644-nep-n11-\u062F\u0648-\u0633\u06CC\u0645-\u06A9\u0627\u0631\u062A-\u0638\u0631\u0641\u06CC\u062A-128-\u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A-\u0648-\u0631\u0645-8-\u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/b983be393008f877e4af57f9167c150ece590f97_1695728047.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 4499000,
+    "RrpPrice": 4599000,
+    "SoldPercentage": 0,
+    "Discount": 100000,
+    "DiscountPercent": 2
   }
 ]
