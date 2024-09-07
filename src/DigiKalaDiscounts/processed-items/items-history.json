@@ -1,22 +1,5 @@
 [
   {
-    "Id": "3487583",
-    "AddDate": "2024-09-05T10:15:11.5615244Z",
-    "Timer": 6281,
-    "EndDate": "2024-09-05T11:59:52.5615244Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u067E\u0627\u06CC\u0647 \u0646\u06AF\u0647\u062F\u0627\u0631\u0646\u062F\u0647 \u06AF\u0648\u0634\u06CC \u0645\u0648\u0628\u0627\u06CC\u0644 \u0645\u062F\u0644 H-XP329",
-    "Url": "/product/dkp-3487583/\u067E\u0627\u06CC\u0647-\u0646\u06AF\u0647\u062F\u0627\u0631\u0646\u062F\u0647-\u06AF\u0648\u0634\u06CC-\u0645\u0648\u0628\u0627\u06CC\u0644-\u0645\u062F\u0644-h-xp329",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/871747ff1a9395d7b3713732b7ac1907939e84fb_1601588810.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 504000,
-    "RrpPrice": 599000,
-    "SoldPercentage": 0,
-    "Discount": 95000,
-    "DiscountPercent": 16
-  },
-  {
     "Id": "16391166",
     "AddDate": "2024-09-05T12:27:04.6845056Z",
     "Timer": 12768,
@@ -10164,5 +10147,22 @@
     "SoldPercentage": 0,
     "Discount": 351000,
     "DiscountPercent": 12
+  },
+  {
+    "Id": "13867812",
+    "AddDate": "2024-09-07T12:23:45.2626125Z",
+    "Timer": 115567,
+    "EndDate": "2024-09-08T20:29:52.2626125Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0646\u0633\u0648\u0644 \u0628\u0627\u0632\u06CC \u0633\u0648\u0646\u06CC \u0645\u062F\u0644 PlayStation 5 Slim \u0638\u0631\u0641\u06CC\u062A \u06CC\u06A9 \u062A\u0631\u0627\u0628\u0627\u06CC\u062A \u0631\u06CC\u062C\u0646 2016A \u0627\u0631\u0648\u067E\u0627",
+    "Url": "/product/dkp-13867812/\u06A9\u0646\u0633\u0648\u0644-\u0628\u0627\u0632\u06CC-\u0633\u0648\u0646\u06CC-\u0645\u062F\u0644-playstation-5-slim-\u0638\u0631\u0641\u06CC\u062A-\u06CC\u06A9-\u062A\u0631\u0627\u0628\u0627\u06CC\u062A-\u0631\u06CC\u062C\u0646-1216a-\u0627\u0631\u0648\u067E\u0627",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/7f0c6c207a3c72b266fc96466ff2011b48bad06f_1703511082.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 31899000,
+    "RrpPrice": 33900000,
+    "SoldPercentage": 0,
+    "Discount": 2001000,
+    "DiscountPercent": 6
   }
 ]
