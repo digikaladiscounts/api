@@ -1,22 +1,5 @@
 [
   {
-    "Id": "13867812",
-    "AddDate": "2024-09-07T12:23:45.2626125Z",
-    "Timer": 115567,
-    "EndDate": "2024-09-08T20:29:52.2626125Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u06A9\u0646\u0633\u0648\u0644 \u0628\u0627\u0632\u06CC \u0633\u0648\u0646\u06CC \u0645\u062F\u0644 PlayStation 5 Slim \u0638\u0631\u0641\u06CC\u062A \u06CC\u06A9 \u062A\u0631\u0627\u0628\u0627\u06CC\u062A \u0631\u06CC\u062C\u0646 2016A \u0627\u0631\u0648\u067E\u0627",
-    "Url": "/product/dkp-13867812/\u06A9\u0646\u0633\u0648\u0644-\u0628\u0627\u0632\u06CC-\u0633\u0648\u0646\u06CC-\u0645\u062F\u0644-playstation-5-slim-\u0638\u0631\u0641\u06CC\u062A-\u06CC\u06A9-\u062A\u0631\u0627\u0628\u0627\u06CC\u062A-\u0631\u06CC\u062C\u0646-1216a-\u0627\u0631\u0648\u067E\u0627",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/7f0c6c207a3c72b266fc96466ff2011b48bad06f_1703511082.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 31899000,
-    "RrpPrice": 33900000,
-    "SoldPercentage": 0,
-    "Discount": 2001000,
-    "DiscountPercent": 6
-  },
-  {
     "Id": "9481217",
     "AddDate": "2024-09-07T16:15:15.9401997Z",
     "Timer": 0,
@@ -10691,5 +10674,39 @@
     "SoldPercentage": 0,
     "Discount": 9900,
     "DiscountPercent": 15
+  },
+  {
+    "Id": "16396888",
+    "AddDate": "2024-09-09T12:27:56.979976Z",
+    "Timer": 12714,
+    "EndDate": "2024-09-09T15:59:50.979976Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u062F\u0633\u062A \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0645\u062F\u0644 TWS 3S",
+    "Url": "/product/dkp-16396888/\u0647\u062F\u0633\u062A-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0645\u062F\u0644-tws-3s",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/118efabe6b6ebe8c57afc5e9fdcf13ee021d5a4d_1723564910.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 540000,
+    "RrpPrice": 1200000,
+    "SoldPercentage": 0,
+    "Discount": 660000,
+    "DiscountPercent": 55
+  },
+  {
+    "Id": "3057204",
+    "AddDate": "2024-09-09T12:27:47.8331113Z",
+    "Timer": 28924,
+    "EndDate": "2024-09-09T20:29:51.8331113Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0631\u0648\u063A\u0646 \u0633\u0631\u062E \u06A9\u0631\u062F\u0646\u06CC \u062D\u0627\u0648\u064A \u0631\u0648\u063A\u0646 \u06A9\u0646\u062C\u062F \u0648 \u0622\u0641\u062A\u0627\u0628\u06AF\u0631\u062F\u0627\u0646 \u0634\u06CC\u0631\u0631\u0636\u0627 - 1.8 \u0644\u06CC\u062A\u0631",
+    "Url": "/product/dkp-3057204/\u0631\u0648\u063A\u0646-\u0633\u0631\u062E-\u06A9\u0631\u062F\u0646\u06CC-\u062D\u0627\u0648\u064A-\u0631\u0648\u063A\u0646-\u06A9\u0646\u062C\u062F-\u0648-\u0622\u0641\u062A\u0627\u0628\u06AF\u0631\u062F\u0627\u0646-\u0634\u06CC\u0631\u0631\u0636\u0627-18-\u0644\u06CC\u062A\u0631",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/3116af1b6e1c68dea5cb3d833a03b3984fae3849_1692686624.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 201540,
+    "RrpPrice": 335900,
+    "SoldPercentage": 34,
+    "Discount": 134360,
+    "DiscountPercent": 40
   }
 ]
