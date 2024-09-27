@@ -1,22 +1,5 @@
 [
   {
-    "Id": "16576702",
-    "AddDate": "2024-09-25T12:29:11.1908696Z",
-    "Timer": 12649,
-    "EndDate": "2024-09-25T16:00:00.1908696Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0627\u0645\u0631\u06CC\u06A9\u0646 \u0627\u0648\u067E\u062A\u06CC\u06A9\u0627\u0644 \u0645\u062F\u0644 STYLE GR BL",
-    "Url": "/product/dkp-16576702/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0627\u0645\u0631\u06CC\u06A9\u0646-\u0627\u0648\u067E\u062A\u06CC\u06A9\u0627\u0644-\u0645\u062F\u0644-style-gr-bl",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9466c9da5664bbec60a1fb96ecd420e7a792631b_1724961062.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 691000,
-    "RrpPrice": 4000000,
-    "SoldPercentage": 0,
-    "Discount": 3309000,
-    "DiscountPercent": 83
-  },
-  {
     "Id": "15552664",
     "AddDate": "2024-09-25T16:20:09.7590981Z",
     "Timer": 14991,
@@ -15043,5 +15026,22 @@
     "SoldPercentage": 0,
     "Discount": 17500,
     "DiscountPercent": 26
+  },
+  {
+    "Id": "8203435",
+    "AddDate": "2024-09-27T14:13:42.6995743Z",
+    "Timer": 22577,
+    "EndDate": "2024-09-27T20:29:59.6995743Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062F\u0633\u062A\u0645\u0627\u0644 \u0645\u0631\u0637\u0648\u0628 \u06A9\u0648\u062F\u06A9 \u0645\u0648\u0644\u0641\u06CC\u06A9\u0633 \u0645\u062F\u0644 isotonic water \u0628\u0633\u062A\u0647 60 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-8203435/\u062F\u0633\u062A\u0645\u0627\u0644-\u0645\u0631\u0637\u0648\u0628-\u06A9\u0648\u062F\u06A9-\u0645\u0648\u0644\u0641\u06CC\u06A9\u0633-\u0645\u062F\u0644-isotonic-water-\u0628\u0633\u062A\u0647-60-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/42af7870f0fb8d8b02c02b79bf0318beb7e149d8_1649250101.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 43900,
+    "RrpPrice": 51400,
+    "SoldPercentage": 0,
+    "Discount": 7500,
+    "DiscountPercent": 15
   }
 ]
