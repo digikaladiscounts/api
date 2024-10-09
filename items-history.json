@@ -12136,5 +12136,22 @@
     "SoldPercentage": 60,
     "Discount": 7500,
     "DiscountPercent": 10
+  },
+  {
+    "Id": "16428394",
+    "AddDate": "2024-10-09T01:06:35.9901359Z",
+    "Timer": 12205,
+    "EndDate": "2024-10-09T04:30:00.9901359Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0645\u0648\u062F\u0645 4G LTE \u0627\u0633\u0641\u06CC\u0648\u0631\u062F \u0645\u062F\u0644 UP-PT3000",
+    "Url": "/product/dkp-16428394/\u0645\u0648\u062F\u0645-4g-lte-\u0627\u0633\u0641\u06CC\u0648\u0631\u062F-\u0645\u062F\u0644-up-pt3000",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/1de15868e8f922faed7301f52bfd9a39aedb648a_1723711334.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1549000,
+    "RrpPrice": 5725000,
+    "SoldPercentage": 0,
+    "Discount": 4176000,
+    "DiscountPercent": 73
   }
 ]
