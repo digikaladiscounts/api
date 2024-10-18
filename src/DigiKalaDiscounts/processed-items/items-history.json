@@ -1,39 +1,5 @@
 [
   {
-    "Id": "16856820",
-    "AddDate": "2024-10-16T12:28:46.5902924Z",
-    "Timer": 12674,
-    "EndDate": "2024-10-16T16:00:00.5902924Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0645\u0631\u062F\u0627\u0646\u0647 \u0622\u0644\u0628\u0631\u062A \u0648\u06AF \u0645\u062F\u0644 JS8557C91-P253 Polarized Avantgarde Visionary",
-    "Url": "/product/dkp-16856820/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0645\u0631\u062F\u0627\u0646\u0647-\u0622\u0644\u0628\u0631\u062A-\u0648\u06AF-\u0645\u062F\u0644-js8557c91-p253-polarized-avantgarde-visionary",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/d14be78704238524f2f88d91ff8931177bec1d25_1727784131.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 1780000,
-    "RrpPrice": 5934000,
-    "SoldPercentage": 0,
-    "Discount": 4154000,
-    "DiscountPercent": 70
-  },
-  {
-    "Id": "14019024",
-    "AddDate": "2024-10-16T12:28:44.0272273Z",
-    "Timer": 115277,
-    "EndDate": "2024-10-17T20:30:01.0272273Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0633\u06A9\u0647 \u0637\u0644\u0627 \u06AF\u0631\u0645\u06CC 18 \u0639\u06CC\u0627\u0631 \u067E\u0627\u0631\u0633\u06CC\u0627\u0646 \u0645\u062F\u0644 1403 ",
-    "Url": "/product/dkp-14019024/\u0633\u06A9\u0647-\u0637\u0644\u0627-\u06AF\u0631\u0645\u06CC-18-\u0639\u06CC\u0627\u0631-\u067E\u0627\u0631\u0633\u06CC\u0627\u0646-\u0645\u062F\u0644-1403",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/a17104a8fbab3f0847e78445f0087a5496747e29_1705166400.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 4575000,
-    "RrpPrice": 5867100,
-    "SoldPercentage": 0,
-    "Discount": 1292100,
-    "DiscountPercent": 22
-  },
-  {
     "Id": "16649531",
     "AddDate": "2024-10-16T16:16:47.8845094Z",
     "Timer": 15185,
@@ -12680,5 +12646,22 @@
     "SoldPercentage": 0,
     "Discount": 3590,
     "DiscountPercent": 12
+  },
+  {
+    "Id": "1606407",
+    "AddDate": "2024-10-18T14:13:37.7762277Z",
+    "Timer": 22574,
+    "EndDate": "2024-10-18T20:29:51.7762277Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0631\u0627\u0646 \u06AF\u0648\u0633\u0627\u0644\u0647 \u062A\u0646\u0638\u06CC\u0645 \u0628\u0627\u0632\u0627\u0631 \u0645\u0647\u062A\u0627 \u067E\u0631\u0648\u062A\u0626\u06CC\u0646 - 1 \u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645 ",
+    "Url": "/product/dkp-1606407/\u0631\u0627\u0646-\u06AF\u0648\u0633\u0627\u0644\u0647-\u062A\u0646\u0638\u06CC\u0645-\u0628\u0627\u0632\u0627\u0631-\u0645\u0647\u062A\u0627-\u067E\u0631\u0648\u062A\u0626\u06CC\u0646-1-\u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/552af771e91a0bb5adc53a529f7b0fb86be1b7b6_1701142796.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 296010,
+    "RrpPrice": 299000,
+    "SoldPercentage": 0,
+    "Discount": 2990,
+    "DiscountPercent": 1
   }
 ]
