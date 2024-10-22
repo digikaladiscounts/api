@@ -1,22 +1,5 @@
 [
   {
-    "Id": "16709040",
-    "AddDate": "2024-10-20T18:17:54.4698744Z",
-    "Timer": 7917,
-    "EndDate": "2024-10-20T20:29:51.4698744Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0627\u0633\u067E\u06CC\u06A9\u0631 \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0642\u0627\u0628\u0644 \u062D\u0645\u0644 \u0633\u06CC\u0646\u06AF \u0645\u062F\u0644 ZQS-1468",
-    "Url": "/product/dkp-16709040/\u0627\u0633\u067E\u06CC\u06A9\u0631-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0642\u0627\u0628\u0644-\u062D\u0645\u0644-\u0633\u06CC\u0646\u06AF-\u0645\u062F\u0644-zqs-1468",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/d158dc73104566f74244f7fbe163db6765de4f9c_1726315297.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 701100,
-    "RrpPrice": 1710000,
-    "SoldPercentage": 0,
-    "Discount": 1008900,
-    "DiscountPercent": 59
-  },
-  {
     "Id": "1144672",
     "AddDate": "2024-10-20T20:14:33.9501363Z",
     "Timer": 917,
@@ -12884,5 +12867,22 @@
     "SoldPercentage": 0,
     "Discount": 48600,
     "DiscountPercent": 27
+  },
+  {
+    "Id": "14780161",
+    "AddDate": "2024-10-22T18:19:22.0404577Z",
+    "Timer": 7828,
+    "EndDate": "2024-10-22T20:29:50.0404577Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0631\u0627\u0646 \u06AF\u0648\u0633\u0627\u0644\u0647 \u062A\u0646\u0638\u06CC\u0645 \u0628\u0627\u0632\u0627\u0631  \u067E\u0648\u06CC\u0627 \u067E\u0631\u0648\u062A\u0626\u06CC\u0646 - 1 \u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645 ",
+    "Url": "/product/dkp-14780161/\u0631\u0627\u0646-\u06AF\u0648\u0633\u0627\u0644\u0647-\u062A\u0646\u0638\u06CC\u0645-\u0628\u0627\u0632\u0627\u0631-\u067E\u0648\u06CC\u0627-\u067E\u0631\u0648\u062A\u0626\u06CC\u0646-1-\u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/a2d3f754b4df649a0b055f87aed12981b288b2f2_1710066830.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 295900,
+    "RrpPrice": 299000,
+    "SoldPercentage": 0,
+    "Discount": 3100,
+    "DiscountPercent": 1
   }
 ]
