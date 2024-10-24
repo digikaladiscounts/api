@@ -15315,5 +15315,22 @@
     "SoldPercentage": 60,
     "Discount": 1300,
     "DiscountPercent": 1
+  },
+  {
+    "Id": "11932210",
+    "AddDate": "2024-10-24T08:19:15.7462933Z",
+    "Timer": 43834,
+    "EndDate": "2024-10-24T20:29:49.7462933Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062F\u0648\u063A \u06AF\u0627\u0632\u062F\u0627\u0631 \u062A\u062E\u0645\u06CC\u0631\u06CC \u06A9\u0627\u0644\u0647 - 1.5 \u0644\u06CC\u062A\u0631 \u0628\u0633\u062A\u0647 6 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-11932210/\u062F\u0648\u063A-\u06AF\u0627\u0632\u062F\u0627\u0631-\u062A\u062E\u0645\u06CC\u0631\u06CC-\u06A9\u0627\u0644\u0647-15-\u0644\u06CC\u062A\u0631-\u0628\u0633\u062A\u0647-6-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9606ea727a14aebf4e80915d62c7bb60e4870d81_1688550578.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 175990,
+    "RrpPrice": 270000,
+    "SoldPercentage": 0,
+    "Discount": 94010,
+    "DiscountPercent": 35
   }
 ]
