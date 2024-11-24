@@ -27385,5 +27385,22 @@
     "SoldPercentage": 0,
     "Discount": 255580,
     "DiscountPercent": 50
+  },
+  {
+    "Id": "792227",
+    "AddDate": "2024-11-24T04:17:29.128994Z",
+    "Timer": 58352,
+    "EndDate": "2024-11-24T20:30:01.128994Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u06CC\u0646\u0647 \u0645\u0631\u063A \u0628\u06CC \u0627\u0633\u062A\u062E\u0648\u0627\u0646 \u0645\u0647\u06CC\u0627 \u067E\u0631\u0648\u062A\u0626\u06CC\u0646 \u0645\u0642\u062F\u0627\u0631 0.9 \u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645",
+    "Url": "/product/dkp-792227/\u0633\u06CC\u0646\u0647-\u0645\u0631\u063A-\u0628\u06CC-\u0627\u0633\u062A\u062E\u0648\u0627\u0646-\u0645\u0647\u06CC\u0627-\u067E\u0631\u0648\u062A\u0626\u06CC\u0646-\u0645\u0642\u062F\u0627\u0631-09-\u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/3609171.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 207000,
+    "RrpPrice": 210600,
+    "SoldPercentage": 0,
+    "Discount": 3600,
+    "DiscountPercent": 2
   }
 ]
