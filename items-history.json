@@ -1,22 +1,5 @@
 [
   {
-    "Id": "16998337",
-    "AddDate": "2024-12-08T03:05:26.3939912Z",
-    "Timer": 5074,
-    "EndDate": "2024-12-08T04:30:00.3939912Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0641\u0631 \u06A9\u0646\u0646\u062F\u0647 \u0648 \u062D\u0627\u0644\u062A \u062F\u0647\u0646\u062F\u0647 \u0645\u0648 \u0631\u0648\u0645\u0626\u0648 \u0645\u062F\u0644 RM-6969",
-    "Url": "/product/dkp-16998337/\u0641\u0631-\u06A9\u0646\u0646\u062F\u0647-\u0648-\u062D\u0627\u0644\u062A-\u062F\u0647\u0646\u062F\u0647-\u0645\u0648-\u0631\u0648\u0645\u0626\u0648-\u0645\u062F\u0644-rm-6969",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/45f0f49bb731850951d16a783774582838877a40_1728741297.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 797000,
-    "RrpPrice": 1800000,
-    "SoldPercentage": 40,
-    "Discount": 1003000,
-    "DiscountPercent": 56
-  },
-  {
     "Id": "17506433",
     "AddDate": "2024-12-08T06:20:27.4519558Z",
     "Timer": 7769,
@@ -12850,5 +12833,22 @@
     "SoldPercentage": 0,
     "Discount": 110000,
     "DiscountPercent": 23
+  },
+  {
+    "Id": "16998337",
+    "AddDate": "2024-12-10T04:18:59.70085Z",
+    "Timer": 656,
+    "EndDate": "2024-12-10T04:29:55.70085Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0641\u0631 \u06A9\u0646\u0646\u062F\u0647 \u0648 \u062D\u0627\u0644\u062A \u062F\u0647\u0646\u062F\u0647 \u0645\u0648 \u0631\u0648\u0645\u0626\u0648 \u0645\u062F\u0644 RM-6969",
+    "Url": "/product/dkp-16998337/\u0641\u0631-\u06A9\u0646\u0646\u062F\u0647-\u0648-\u062D\u0627\u0644\u062A-\u062F\u0647\u0646\u062F\u0647-\u0645\u0648-\u0631\u0648\u0645\u0626\u0648-\u0645\u062F\u0644-rm-6969",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/45f0f49bb731850951d16a783774582838877a40_1728741297.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 797000,
+    "RrpPrice": 1800000,
+    "SoldPercentage": 0,
+    "Discount": 1003000,
+    "DiscountPercent": 56
   }
 ]
