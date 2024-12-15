@@ -1,22 +1,5 @@
 [
   {
-    "Id": "17514923",
-    "AddDate": "2024-12-13T06:22:14.1783609Z",
-    "Timer": 7667,
-    "EndDate": "2024-12-13T08:30:01.1783609Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u062E\u0644\u0628\u0627\u0646\u06CC \u067E\u0644\u0627\u0631\u06CC\u0632\u0647 \u067E\u0644\u06CC\u0633 \u0645\u062F\u0644 SPL TR 8043 TI POLAR",
-    "Url": "/product/dkp-17514923/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u062E\u0644\u0628\u0627\u0646\u06CC-\u067E\u0644\u0627\u0631\u06CC\u0632\u0647-\u067E\u0644\u06CC\u0633-\u0645\u062F\u0644-spl-tr-8043-ti-polar",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/b8472a4a122e7bb4d232cb20ee9a35c4c1b6a8d3_1732547783.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 980000,
-    "RrpPrice": 5000000,
-    "SoldPercentage": 0,
-    "Discount": 4020000,
-    "DiscountPercent": 80
-  },
-  {
     "Id": "16961868",
     "AddDate": "2024-12-13T08:20:23.6488263Z",
     "Timer": 577,
@@ -11881,5 +11864,22 @@
     "SoldPercentage": 0,
     "Discount": 13810,
     "DiscountPercent": 10
+  },
+  {
+    "Id": "12385302",
+    "AddDate": "2024-12-15T08:18:22.4588885Z",
+    "Timer": 43898,
+    "EndDate": "2024-12-15T20:30:00.4588885Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u0646\u06AF \u062F\u0631\u0627\u0645 \u0622\u0631\u0634\u0627 \u0645\u062F\u0644 \u06AF\u0631\u06CC\u062F A",
+    "Url": "/product/dkp-12385302/\u0647\u0646\u06AF-\u062F\u0631\u0627\u0645-\u0622\u0631\u0634\u0627-\u0645\u062F\u0644-\u06AF\u0631\u06CC\u062F-a",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/90d30c2b9837a991804c12e5c41fe9049d675a26_1692087471.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 3899000,
+    "RrpPrice": 4660000,
+    "SoldPercentage": 0,
+    "Discount": 761000,
+    "DiscountPercent": 16
   }
 ]
