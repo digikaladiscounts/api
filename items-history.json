@@ -14890,5 +14890,22 @@
     "SoldPercentage": 0,
     "Discount": 161000,
     "DiscountPercent": 46
+  },
+  {
+    "Id": "17270683",
+    "AddDate": "2024-12-17T14:14:57.9200372Z",
+    "Timer": 22503,
+    "EndDate": "2024-12-17T20:30:00.9200372Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0627\u067E\u0634\u0646 \u0645\u0631\u062F\u0627\u0646\u0647 \u0645\u062F\u0644 \u062F\u0648\u0631\u0648 \u06A9\u062F KAM_1",
+    "Url": "/product/dkp-17270683/\u06A9\u0627\u067E\u0634\u0646-\u0645\u0631\u062F\u0627\u0646\u0647-\u0645\u062F\u0644-\u062F\u0648\u0631\u0648-\u06A9\u062F-kam-1",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/909ae37e233eb95ad3439968f3110396bc850482_1731174165.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 919000,
+    "RrpPrice": 1350000,
+    "SoldPercentage": 0,
+    "Discount": 431000,
+    "DiscountPercent": 32
   }
 ]
