@@ -13445,5 +13445,22 @@
     "SoldPercentage": 0,
     "Discount": 70280,
     "DiscountPercent": 40
+  },
+  {
+    "Id": "15652973",
+    "AddDate": "2024-12-31T14:12:47.2685035Z",
+    "Timer": 22633,
+    "EndDate": "2024-12-31T20:30:00.2685035Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062C\u0648\u0631\u0627\u0628 \u0633\u0627\u0642 \u0628\u0644\u0646\u062F \u0645\u0631\u062F\u0627\u0646\u0647 \u067E\u0627\u0644\u0648\u062A\u0647 \u0645\u062F\u0644 PLT-SHG-E33 \u0645\u062C\u0645\u0648\u0639\u0647 3 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-15652973/\u062C\u0648\u0631\u0627\u0628-\u0633\u0627\u0642-\u0628\u0644\u0646\u062F-\u0645\u0631\u062F\u0627\u0646\u0647-\u067E\u0627\u0644\u0648\u062A\u0647-\u0645\u062F\u0644-plt-shg-e33-\u0645\u062C\u0645\u0648\u0639\u0647-3-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/b7eede01f600ef176883eb8c2c924f5ed65524a3_1717503232.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 124500,
+    "RrpPrice": 200000,
+    "SoldPercentage": 0,
+    "Discount": 75500,
+    "DiscountPercent": 38
   }
 ]
