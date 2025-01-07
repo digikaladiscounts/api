@@ -16641,5 +16641,22 @@
     "SoldPercentage": 0,
     "Discount": 50000,
     "DiscountPercent": 5
+  },
+  {
+    "Id": "17480685",
+    "AddDate": "2025-01-07T15:21:54.6164882Z",
+    "Timer": 18486,
+    "EndDate": "2025-01-07T20:30:00.6164882Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u062A \u0647\u062F\u06CC\u0647 \u0686\u0631\u0645 \u06CC\u0644\u0633\u0627\u0646 \u0645\u062F\u0644 \u0633\u067E\u0646\u062A\u0627 \u06A9\u062F NHL-BS-073-msk",
+    "Url": "/product/dkp-17480685/\u0633\u062A-\u0647\u062F\u06CC\u0647-\u0686\u0631\u0645-\u06CC\u0644\u0633\u0627\u0646-\u0645\u062F\u0644-\u0633\u067E\u0646\u062A\u0627-\u06A9\u062F-nhl-bs-073-msk",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/8328b69d6b2176f7a29d888f50b7419379b03017_1732437199.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 203500,
+    "RrpPrice": 542000,
+    "SoldPercentage": 0,
+    "Discount": 338500,
+    "DiscountPercent": 62
   }
 ]
