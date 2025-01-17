@@ -13785,5 +13785,22 @@
     "SoldPercentage": 0,
     "Discount": 641000,
     "DiscountPercent": 46
+  },
+  {
+    "Id": "17850244",
+    "AddDate": "2025-01-17T06:19:45.4843315Z",
+    "Timer": 7815,
+    "EndDate": "2025-01-17T08:30:00.4843315Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0632\u0646\u0627\u0646\u0647 \u0645\u062F\u0644 JS8502C84-P160 ",
+    "Url": "/product/dkp-17850244/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0632\u0646\u0627\u0646\u0647-\u0645\u062F\u0644-js8502c84-p160",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/1c20ddda2b3413a56fa267140f94f3c6de7eed6b_1735472836.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 885000,
+    "RrpPrice": 3540000,
+    "SoldPercentage": 0,
+    "Discount": 2655000,
+    "DiscountPercent": 75
   }
 ]
