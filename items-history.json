@@ -13343,5 +13343,39 @@
     "SoldPercentage": 0,
     "Discount": 10500,
     "DiscountPercent": 20
+  },
+  {
+    "Id": "18055042",
+    "AddDate": "2025-01-29T01:05:56.3275158Z",
+    "Timer": 156244,
+    "EndDate": "2025-01-30T20:30:00.3275158Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0645\u0628\u0644 \u0631\u0627\u062D\u062A\u06CC \u0647\u0634\u062A \u0646\u0641\u0631\u0647 \u0631\u0633\u062A \u0645\u062F\u0644 \u0644\u0627\u0648\u0627\u0646 perolly 1011 - pure",
+    "Url": "/product/dkp-18055042/\u0645\u0628\u0644-\u0631\u0627\u062D\u062A\u06CC-\u0647\u0634\u062A-\u0646\u0641\u0631\u0647-\u0631\u0633\u062A-\u0645\u062F\u0644-\u0644\u0627\u0648\u0627\u0646-perolly-1011-pure",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/378b240abb7dc0bbe15ba9efd371cec26a935b6a_1737282479.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 78500000,
+    "RrpPrice": 86011300,
+    "SoldPercentage": 0,
+    "Discount": 7511300,
+    "DiscountPercent": 9
+  },
+  {
+    "Id": "18066055",
+    "AddDate": "2025-01-29T01:05:55.9277868Z",
+    "Timer": 69845,
+    "EndDate": "2025-01-29T20:30:00.9277868Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u0631\u0648\u06CC\u0633 \u063A\u0630\u0627\u062E\u0648\u0631\u06CC 25 \u067E\u0627\u0631\u0686\u0647 \u06AF\u0644\u062F\u0646 \u0627\u0648\u067E\u0627\u0644 \u0645\u062F\u0644 \u0645\u0627\u0646\u06CC\u0627 \u06A9\u062F Carine ",
+    "Url": "/product/dkp-18066055/\u0633\u0631\u0648\u06CC\u0633-\u063A\u0630\u0627\u062E\u0648\u0631\u06CC-25-\u067E\u0627\u0631\u0686\u0647-\u06AF\u0644\u062F\u0646-\u0627\u0648\u067E\u0627\u0644-\u0645\u062F\u0644-\u0645\u0627\u0646\u06CC\u0627-\u06A9\u062F-carine",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/fd2b9f0ca8b55681b62696170b16d6930e0bc42c_1737463655.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1149000,
+    "RrpPrice": 1900000,
+    "SoldPercentage": 0,
+    "Discount": 751000,
+    "DiscountPercent": 40
   }
 ]
