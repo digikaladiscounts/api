@@ -1,39 +1,5 @@
 [
   {
-    "Id": "3348534",
-    "AddDate": "2025-03-05T04:18:10.7732054Z",
-    "Timer": 710,
-    "EndDate": "2025-03-05T04:30:00.7732054Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0647\u062F\u0641\u0648\u0646 \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0645\u062F\u0644 P60i",
-    "Url": "/product/dkp-3348534/\u0647\u062F\u0641\u0648\u0646-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0645\u062F\u0644-p60i",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9846980b1596839b359b350603070a0f6c09393c_1739357072.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 1880000,
-    "RrpPrice": 6490000,
-    "SoldPercentage": 90,
-    "Discount": 4610000,
-    "DiscountPercent": 71
-  },
-  {
-    "Id": "3348555",
-    "AddDate": "2025-03-05T04:18:10.7732054Z",
-    "Timer": 710,
-    "EndDate": "2025-03-05T04:30:00.7732054Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0647\u062F\u0641\u0648\u0646 \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0645\u062F\u0644 MQ\u034F80",
-    "Url": "/product/dkp-3348555/\u0647\u062F\u0641\u0648\u0646-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0645\u062F\u0644-mq80",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9e7f417fc628d25e73096fc3dbb9d0bea3c06527_1739699597.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 499000,
-    "RrpPrice": 1990000,
-    "SoldPercentage": 0,
-    "Discount": 1491000,
-    "DiscountPercent": 75
-  },
-  {
     "Id": "13741504",
     "AddDate": "2025-03-05T06:21:23.8961099Z",
     "Timer": 7717,
@@ -14312,5 +14278,22 @@
     "SoldPercentage": 0,
     "Discount": 1769000,
     "DiscountPercent": 58
+  },
+  {
+    "Id": "3348534",
+    "AddDate": "2025-03-07T04:18:24.9380221Z",
+    "Timer": 696,
+    "EndDate": "2025-03-07T04:30:00.9380221Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u062F\u0641\u0648\u0646 \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0645\u062F\u0644 P60i",
+    "Url": "/product/dkp-3348534/\u0647\u062F\u0641\u0648\u0646-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0645\u062F\u0644-p60i",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9846980b1596839b359b350603070a0f6c09393c_1739357072.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1880000,
+    "RrpPrice": 5460000,
+    "SoldPercentage": 40,
+    "Discount": 3580000,
+    "DiscountPercent": 66
   }
 ]
