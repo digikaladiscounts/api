@@ -1,22 +1,5 @@
 [
   {
-    "Id": "18378675",
-    "AddDate": "2025-03-10T18:19:45.8066847Z",
-    "Timer": 7815,
-    "EndDate": "2025-03-10T20:30:00.8066847Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u062F\u0633\u062A\u06AF\u0627\u0647 \u062A\u0642\u0637\u06CC\u0631 \u0644\u0646\u0633\u0631\u062C\u062A \u06A9\u062F 01",
-    "Url": "/product/dkp-18378675/\u062F\u0633\u062A\u06AF\u0627\u0647-\u062A\u0642\u0637\u06CC\u0631-\u0644\u0646\u0633\u0631\u062C\u062A-\u06A9\u062F-01",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/8a5770bdcf6df604f0ac7a755e86d3bfb83e2ae7_1739988521.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 13990000,
-    "RrpPrice": 26800000,
-    "SoldPercentage": 0,
-    "Discount": 12810000,
-    "DiscountPercent": 48
-  },
-  {
     "Id": "10990338",
     "AddDate": "2025-03-10T20:18:38.8517702Z",
     "Timer": 684,
@@ -16607,5 +16590,22 @@
     "SoldPercentage": 0,
     "Discount": 7500,
     "DiscountPercent": 3
+  },
+  {
+    "Id": "17422100",
+    "AddDate": "2025-03-12T18:21:21.3387163Z",
+    "Timer": 7719,
+    "EndDate": "2025-03-12T20:30:00.3387163Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0634\u0627\u0631\u0698\u0631 \u0641\u0646\u062F\u06A9\u06CC 38 \u0648\u0627\u062A \u0648\u0648\u0646\u06A9 \u0645\u062F\u0644 VC-10 \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u06A9\u0627\u0628\u0644 USB-C",
+    "Url": "/product/dkp-17422100/\u0634\u0627\u0631\u0698\u0631-\u0641\u0646\u062F\u06A9\u06CC-38-\u0648\u0627\u062A-\u0648\u0648\u0646\u06A9-\u0645\u062F\u0644-vc-10-\u0628\u0647-\u0647\u0645\u0631\u0627\u0647-\u06A9\u0627\u0628\u0644-usb-c",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/d1ab62ace60df664be25219cd6dd5d1ecca643dc_1731826842.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 948500,
+    "RrpPrice": 2100000,
+    "SoldPercentage": 67,
+    "Discount": 1151500,
+    "DiscountPercent": 55
   }
 ]
