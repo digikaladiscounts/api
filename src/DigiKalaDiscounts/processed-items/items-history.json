@@ -1,39 +1,5 @@
 [
   {
-    "Id": "3571878",
-    "AddDate": "2025-03-10T04:14:54.1321673Z",
-    "Timer": 907,
-    "EndDate": "2025-03-10T04:30:01.1321673Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u062F\u0633\u062A\u0647 \u0628\u0627\u0632\u06CC \u067E\u0644\u06CC \u0627\u0633\u062A\u06CC\u0634\u0646 \u06F4 \u0645\u062F\u0644 DUA\u034FL\u034F SHO\u034FC\u034FK 4",
-    "Url": "/product/dkp-3571878/\u062F\u0633\u062A\u0647-\u0628\u0627\u0632\u06CC-\u067E\u0644\u06CC-\u0627\u0633\u062A\u06CC\u0634\u0646-\u06F4-\u0633\u0648\u0646\u06CC-\u0645\u062F\u0644-dual-shock-4",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/e2f4b7b74810c814b08e8abf7f638743fc365143_1740292016.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 1160000,
-    "RrpPrice": 2870000,
-    "SoldPercentage": 0,
-    "Discount": 1710000,
-    "DiscountPercent": 60
-  },
-  {
-    "Id": "18359475",
-    "AddDate": "2025-03-10T04:15:00.7048842Z",
-    "Timer": 900,
-    "EndDate": "2025-03-10T04:30:00.7048842Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0647\u062F\u0641\u0648\u0646\u00A0\u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0645\u062F\u0644 M100 PRO",
-    "Url": "/product/dkp-18359475/\u0647\u062F\u0641\u0648\u0646-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0645\u062F\u0644-m100-pro",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/69ccfa3aad0f37d5e7820f4e3764b0931c4ae238_1739822381.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 391000,
-    "RrpPrice": 1830000,
-    "SoldPercentage": 0,
-    "Discount": 1439000,
-    "DiscountPercent": 79
-  },
-  {
     "Id": "18262737",
     "AddDate": "2025-03-10T06:18:01.8143225Z",
     "Timer": 51119,
@@ -16692,5 +16658,22 @@
     "SoldPercentage": 0,
     "Discount": 1848000,
     "DiscountPercent": 56
+  },
+  {
+    "Id": "18359475",
+    "AddDate": "2025-03-12T04:18:15.3045139Z",
+    "Timer": 705,
+    "EndDate": "2025-03-12T04:30:00.3045139Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u062F\u0641\u0648\u0646\u00A0\u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0645\u062F\u0644 M100 PRO",
+    "Url": "/product/dkp-18359475/\u0647\u062F\u0641\u0648\u0646-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0645\u062F\u0644-m100-pro",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/69ccfa3aad0f37d5e7820f4e3764b0931c4ae238_1739822381.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 389000,
+    "RrpPrice": 1850000,
+    "SoldPercentage": 0,
+    "Discount": 1461000,
+    "DiscountPercent": 79
   }
 ]
