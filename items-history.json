@@ -1,22 +1,5 @@
 [
   {
-    "Id": "18250210",
-    "AddDate": "2025-03-11T02:53:31.7316475Z",
-    "Timer": 63389,
-    "EndDate": "2025-03-11T20:30:00.7316475Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u062E\u0631\u062F\u06A9\u0646 \u0631\u0627\u0641 \u0645\u062F\u0644 R.7045",
-    "Url": "/product/dkp-18250210/\u062E\u0631\u062F\u06A9\u0646-\u0631\u0627\u0641-\u0645\u062F\u0644-r7045",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/8b2ef018d5982a2af69f712967384aa9a5681664_1738938699.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 967090,
-    "RrpPrice": 997000,
-    "SoldPercentage": 0,
-    "Discount": 29910,
-    "DiscountPercent": 3
-  },
-  {
     "Id": "17243657",
     "AddDate": "2025-03-11T06:21:27.1206154Z",
     "Timer": 7714,
