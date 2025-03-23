@@ -9552,5 +9552,22 @@
     "SoldPercentage": 36,
     "Discount": 1531000,
     "DiscountPercent": 79
+  },
+  {
+    "Id": "12453831",
+    "AddDate": "2025-03-23T10:14:29.2142765Z",
+    "Timer": 6331,
+    "EndDate": "2025-03-23T12:00:00.2142765Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0645\u062F\u0644 TR3601C86-P33 Polarized Leopard ",
+    "Url": "/product/dkp-12453831/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0645\u062F\u0644-tr3601c86-p33-polarized-leopard",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/74a3d69ac39b8c44b1921e62c26b69fe6b127af3_1692631724.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1386000,
+    "RrpPrice": 3980000,
+    "SoldPercentage": 0,
+    "Discount": 2594000,
+    "DiscountPercent": 65
   }
 ]
