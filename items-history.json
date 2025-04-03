@@ -11439,5 +11439,39 @@
     "SoldPercentage": 0,
     "Discount": 1750500,
     "DiscountPercent": 53
+  },
+  {
+    "Id": "18630058",
+    "AddDate": "2025-04-03T10:17:51.3207014Z",
+    "Timer": 6129,
+    "EndDate": "2025-04-03T12:00:00.3207014Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0632\u0646\u0627\u0646\u0647 \u0622\u0644\u0628\u0631\u062A \u0648\u06AF \u0645\u062F\u0644 S31103-C1 Acetate Avantgarde Visionary",
+    "Url": "/product/dkp-18630058/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0632\u0646\u0627\u0646\u0647-\u0622\u0644\u0628\u0631\u062A-\u0648\u06AF-\u0645\u062F\u0644-s31103-c1-acetate-avantgarde-visionary",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/95ab5f3d2dd8f8247411fa0351951d6e38209b41_1741949984.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2478000,
+    "RrpPrice": 8260000,
+    "SoldPercentage": 0,
+    "Discount": 5782000,
+    "DiscountPercent": 70
+  },
+  {
+    "Id": "18497520",
+    "AddDate": "2025-04-03T10:17:51.9743393Z",
+    "Timer": 6129,
+    "EndDate": "2025-04-03T12:00:00.9743393Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0648\u06CC\u0641\u0631 \u063A\u06CC\u0631 \u067E\u0644\u0627\u0631\u06CC\u0632\u0647 \u062F\u06CC\u0648\u06CC\u062F \u0628\u06A9\u0647\u0627\u0645 \u0645\u062F\u0644 DB 1007 BL 50 16 142 ",
+    "Url": "/product/dkp-18497520/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0648\u06CC\u0641\u0631-\u063A\u06CC\u0631-\u067E\u0644\u0627\u0631\u06CC\u0632\u0647-\u062F\u06CC\u0648\u06CC\u062F-\u0628\u06A9\u0647\u0627\u0645-\u0645\u062F\u0644-db-1007-bl-50-16-142",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/4fbf0361c5d85d4a2856134335a7854e8ce223f5_1740923327.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 690000,
+    "RrpPrice": 4000000,
+    "SoldPercentage": 0,
+    "Discount": 3310000,
+    "DiscountPercent": 83
   }
 ]
