@@ -1,39 +1,5 @@
 [
   {
-    "Id": "18121760",
-    "AddDate": "2025-04-03T12:31:26.1090648Z",
-    "Timer": 12515,
-    "EndDate": "2025-04-03T16:00:01.1090648Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u06A9\u0648\u0644\u0647 \u067E\u0634\u062A\u06CC \u0644\u067E \u062A\u0627\u067E \u0641\u0648\u0631\u0648\u0627\u0631\u062F \u0645\u062F\u0644  FCLT0019 JYDDV DHFN \u0645\u0646\u0627\u0633\u0628 \u0628\u0631\u0627\u06CC \u0644\u067E \u062A\u0627\u067E 16 \u062A\u0627 18 \u0627\u06CC\u0646\u0686\u06CC ",
-    "Url": "/product/dkp-18121760/\u06A9\u0648\u0644\u0647-\u067E\u0634\u062A\u06CC-\u0644\u067E-\u062A\u0627\u067E-\u0641\u0648\u0631\u0648\u0627\u0631\u062F-\u0645\u062F\u0644-fclt0019-jyddv-dhfn-\u0645\u0646\u0627\u0633\u0628-\u0628\u0631\u0627\u06CC-\u0644\u067E-\u062A\u0627\u067E-16-\u062A\u0627-18-\u0627\u06CC\u0646\u0686\u06CC",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/a608b9374f7a28735664f48ed815cfe8184fe67b_1737807861.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 3199000,
-    "RrpPrice": 8900000,
-    "SoldPercentage": 0,
-    "Discount": 5701000,
-    "DiscountPercent": 64
-  },
-  {
-    "Id": "12310265",
-    "AddDate": "2025-04-03T12:31:25.1521323Z",
-    "Timer": 12516,
-    "EndDate": "2025-04-03T16:00:01.1521323Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": " \u0641\u0631\u06CC\u0645 \u0639\u06CC\u0646\u06A9 \u0637\u0628\u06CC \u0645\u062F\u0644 CG7704C690-P265 Polarized Double Switch \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u06A9\u0627\u0648\u0631 \u0622\u0641\u062A\u0627\u0628\u06CC",
-    "Url": "/product/dkp-12310265/\u0641\u0631\u06CC\u0645-\u0639\u06CC\u0646\u06A9-\u0637\u0628\u06CC-\u0645\u062F\u0644-cg7704c690-p265-polarized-double-switch-\u0628\u0647-\u0647\u0645\u0631\u0627\u0647-\u06A9\u0627\u0648\u0631-\u0622\u0641\u062A\u0627\u0628\u06CC",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/89be18918b630586cb5cae6fa9f19c1fcd7e1896_1691849072.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 2792000,
-    "RrpPrice": 6980000,
-    "SoldPercentage": 0,
-    "Discount": 4188000,
-    "DiscountPercent": 60
-  },
-  {
     "Id": "18664279",
     "AddDate": "2025-04-03T14:15:23.8905339Z",
     "Timer": 6277,
@@ -8022,5 +7988,22 @@
     "SoldPercentage": 0,
     "Discount": 250000,
     "DiscountPercent": 2
+  },
+  {
+    "Id": "123821",
+    "AddDate": "2025-04-05T14:12:53.4369171Z",
+    "Timer": 22567,
+    "EndDate": "2025-04-05T20:29:00.4369171Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0645\u0627\u06CC\u0639 \u0644\u0628\u0627\u0633\u0634\u0648\u06CC\u06CC \u0627\u06A9\u062A\u06CC\u0648 \u0645\u062E\u0635\u0648\u0635 \u0644\u0628\u0627\u0633 \u0647\u0627\u06CC \u062A\u06CC\u0631\u0647 \u0645\u0642\u062F\u0627\u0631 1.5 \u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645",
+    "Url": "/product/dkp-123821/\u0645\u0627\u06CC\u0639-\u0644\u0628\u0627\u0633\u0634\u0648\u06CC\u06CC-\u0627\u06A9\u062A\u06CC\u0648-\u0645\u062E\u0635\u0648\u0635-\u0644\u0628\u0627\u0633-\u0647\u0627\u06CC-\u062A\u06CC\u0631\u0647-\u0645\u0642\u062F\u0627\u0631-15-\u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/db0f03ae2020d1064b7bc0509c23f8fe412e9d05_1699093934.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 91000,
+    "RrpPrice": 113100,
+    "SoldPercentage": 0,
+    "Discount": 22100,
+    "DiscountPercent": 20
   }
 ]
