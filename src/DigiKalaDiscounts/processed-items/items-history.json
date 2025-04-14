@@ -12731,5 +12731,22 @@
     "SoldPercentage": 0,
     "Discount": 33300,
     "DiscountPercent": 34
+  },
+  {
+    "Id": "17835133",
+    "AddDate": "2025-04-14T04:18:57.8554639Z",
+    "Timer": 144663,
+    "EndDate": "2025-04-15T20:30:00.8554639Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0627\u0631\u06A9\u0631\u062F\u0647 - \u0644\u067E \u062A\u0627\u067E 16 \u0627\u06CC\u0646\u0686\u06CC \u0644\u0646\u0648\u0648 \u0645\u062F\u0644  Ideapad 5 16IRU9-Core 5 120U-16GB LPDDR5-512GB SSD-Touch",
+    "Url": "/product/dkp-17835133/\u06A9\u0627\u0631\u06A9\u0631\u062F\u0647-\u0644\u067E-\u062A\u0627\u067E-16-\u0627\u06CC\u0646\u0686\u06CC-\u0644\u0646\u0648\u0648-\u0645\u062F\u0644-ideapad-5-16iru9-core-5-120u-16gb-lpddr5-512gb-ssd-touch",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/177f6825e4710e4d2a1c66d74544e71da2c07ae5_1735329528.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 41700000,
+    "RrpPrice": 45400000,
+    "SoldPercentage": 0,
+    "Discount": 3700000,
+    "DiscountPercent": 8
   }
 ]
