@@ -1,22 +1,5 @@
 [
   {
-    "Id": "18056687",
-    "AddDate": "2025-04-13T14:13:28.4551924Z",
-    "Timer": 22592,
-    "EndDate": "2025-04-13T20:30:00.4551924Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u062A\u06CC \u0634\u0631\u062A \u0622\u0633\u062A\u06CC\u0646 \u06A9\u0648\u062A\u0627\u0647 \u0645\u0631\u062F\u0627\u0646\u0647 \u0645\u062F\u0644 002",
-    "Url": "/product/dkp-18056687/\u062A\u06CC-\u0634\u0631\u062A-\u0622\u0633\u062A\u06CC\u0646-\u06A9\u0648\u062A\u0627\u0647-\u0645\u0631\u062F\u0627\u0646\u0647-\u0645\u062F\u0644-002",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/0d59ac7b505b04fcbf124c2a5bc9764b6ada2860_1737297320.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 440000,
-    "RrpPrice": 550000,
-    "SoldPercentage": 0,
-    "Discount": 110000,
-    "DiscountPercent": 20
-  },
-  {
     "Id": "18621367",
     "AddDate": "2025-04-13T16:19:37.8126816Z",
     "Timer": 15023,
@@ -13224,5 +13207,22 @@
     "SoldPercentage": 0,
     "Discount": 23000,
     "DiscountPercent": 5
+  },
+  {
+    "Id": "4302987",
+    "AddDate": "2025-04-15T14:16:15.6781731Z",
+    "Timer": 22426,
+    "EndDate": "2025-04-15T20:30:01.6781731Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u0627\u0639\u062A \u0645\u0686\u06CC \u0639\u0642\u0631\u0628\u0647\u200C\u0627\u06CC \u06A9\u0648\u0627\u0631\u062A\u0632 \u0645\u0631\u062F\u0627\u0646\u0647 \u06A9\u0627\u0633\u06CC\u0648 \u0645\u062F\u0644 MTP-1308D-1A",
+    "Url": "/product/dkp-4302987/\u0633\u0627\u0639\u062A-\u0645\u0686\u06CC-\u0639\u0642\u0631\u0628\u0647\u0627\u06CC-\u06A9\u0648\u0627\u0631\u062A\u0632-\u0645\u0631\u062F\u0627\u0646\u0647-\u06A9\u0627\u0633\u06CC\u0648-\u0645\u062F\u0644-mtp-1308d-1a",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/014cf370fbb7778cefa0dbaf78266563558c84e7_1611491639.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2715300,
+    "RrpPrice": 3630000,
+    "SoldPercentage": 0,
+    "Discount": 914700,
+    "DiscountPercent": 25
   }
 ]
