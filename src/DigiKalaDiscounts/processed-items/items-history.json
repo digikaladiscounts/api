@@ -14448,5 +14448,22 @@
     "SoldPercentage": 0,
     "Discount": 199000,
     "DiscountPercent": 80
+  },
+  {
+    "Id": "18262737",
+    "AddDate": "2025-04-17T06:22:27.1375703Z",
+    "Timer": 50854,
+    "EndDate": "2025-04-17T20:30:01.1375703Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0645\u0627\u06CC\u0639 \u0638\u0631\u0641\u0634\u0648\u06CC\u06CC \u067E\u0631\u06CC\u0644 \u0645\u062F\u0644 Ulrta \u062D\u062C\u0645 3.75 \u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645",
+    "Url": "/product/dkp-18262737/\u0645\u0627\u06CC\u0639-\u0638\u0631\u0641\u0634\u0648\u06CC\u06CC-\u067E\u0631\u06CC\u0644-\u0645\u062F\u0644-ulrta-\u062D\u062C\u0645-375-\u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/34a0f05a965da39da5bc09b2120c4736b9be8bff_1739110233.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 217000,
+    "RrpPrice": 277200,
+    "SoldPercentage": 35,
+    "Discount": 60200,
+    "DiscountPercent": 22
   }
 ]
