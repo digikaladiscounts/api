@@ -12187,5 +12187,39 @@
     "SoldPercentage": 0,
     "Discount": 3710,
     "DiscountPercent": 2
+  },
+  {
+    "Id": "18059871",
+    "AddDate": "2025-04-19T01:11:45.3851373Z",
+    "Timer": 69495,
+    "EndDate": "2025-04-19T20:30:00.3851373Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062F\u0633\u062A\u06AF\u0627\u0647 \u062C\u0648\u0634\u00A0650 \u0622\u0645\u067E\u0631 \u0635\u0646\u0639\u062A\u06CC \u0628\u0627\u0633 \u0645\u062F\u0644 NEO POPER \u06A9\u062F CO2",
+    "Url": "/product/dkp-18059871/\u062F\u0633\u062A\u06AF\u0627\u0647-\u062C\u0648\u0634-650-\u0622\u0645\u067E\u0631-\u0635\u0646\u0639\u062A\u06CC-\u0628\u0627\u0633-\u0645\u062F\u0644-neo-poper-\u06A9\u062F-co2",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/212b6b41d9ad111b5085db9fb31d3c71c580728a_1737264104.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 5999900,
+    "RrpPrice": 6800000,
+    "SoldPercentage": 0,
+    "Discount": 800100,
+    "DiscountPercent": 12
+  },
+  {
+    "Id": "18406161",
+    "AddDate": "2025-04-19T01:11:45.9715584Z",
+    "Timer": 11895,
+    "EndDate": "2025-04-19T04:30:00.9715584Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u062A \u0632\u0646\u0627\u0646\u0647 \u0645\u062F\u0644 \u0627\u0631\u0648\u0646\u064A\u0627",
+    "Url": "/product/dkp-18406161/\u06A9\u062A-\u0632\u0646\u0627\u0646\u0647-\u0645\u062F\u0644-\u0627\u0631\u0648\u0646\u064A\u0627",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/bf3701c19bc5f1d382d8159c2097f11e20df729b_1740234200.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 3116000,
+    "RrpPrice": 3280000,
+    "SoldPercentage": 0,
+    "Discount": 164000,
+    "DiscountPercent": 5
   }
 ]
