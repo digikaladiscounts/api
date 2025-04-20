@@ -10181,5 +10181,22 @@
     "SoldPercentage": 0,
     "Discount": 181000,
     "DiscountPercent": 27
+  },
+  {
+    "Id": "18920375",
+    "AddDate": "2025-04-20T03:05:51.5768268Z",
+    "Timer": 5049,
+    "EndDate": "2025-04-20T04:30:00.5768268Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0634\u0627\u0631\u0698\u0631 \u0641\u0646\u062F\u06A9\u06CC 50 \u0648\u0627\u062A \u0648\u0648\u0646\u06A9 \u0645\u062F\u0644 VC--50 \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u06A9\u0627\u0628\u0644 USB-C",
+    "Url": "/product/dkp-18920375/\u0634\u0627\u0631\u0698\u0631-\u0641\u0646\u062F\u06A9\u06CC-50-\u0648\u0627\u062A-\u0648\u0648\u0646\u06A9-\u0645\u062F\u0644-vc-50-\u0628\u0647-\u0647\u0645\u0631\u0627\u0647-\u06A9\u0627\u0628\u0644-usb-c",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/c305d5f9dc1d14318ad9ba123b6edc9d4318f86a_1744619362.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 946000,
+    "RrpPrice": 1720000,
+    "SoldPercentage": 0,
+    "Discount": 774000,
+    "DiscountPercent": 45
   }
 ]
