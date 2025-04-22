@@ -15519,5 +15519,22 @@
     "SoldPercentage": 0,
     "Discount": 11960,
     "DiscountPercent": 10
+  },
+  {
+    "Id": "18602639",
+    "AddDate": "2025-04-22T01:16:10.1008357Z",
+    "Timer": 11631,
+    "EndDate": "2025-04-22T04:30:01.1008357Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u062A\u0627\u0628 \u0645\u0639\u062C\u0632\u0647 \u0634\u06A9\u0631\u06AF\u0632\u0627\u0631\u06CC \u0627\u062B\u0631 \u0631\u0627\u0646\u062F\u0627 \u0628\u0631\u0646 \u062A\u0631\u062C\u0645\u0647\u00A0\u0641\u0631\u0632\u0627\u0645 \u062D\u0628\u06CC\u0628\u06CC \u0627\u0635\u0641\u0647\u0627\u0646\u06CC \u0627\u0646\u062A\u0634\u0627\u0631\u0627\u062A \u0647\u06CC\u062A\u0627",
+    "Url": "/product/dkp-18602639/\u06A9\u062A\u0627\u0628-\u0645\u0639\u062C\u0632\u0647-\u0634\u06A9\u0631\u06AF\u0632\u0627\u0631\u06CC-\u0627\u062B\u0631-\u0631\u0627\u0646\u062F\u0627-\u0628\u0631\u0646-\u062A\u0631\u062C\u0645\u0647-\u0641\u0631\u0632\u0627\u0645-\u062D\u0628\u06CC\u0628\u06CC-\u0627\u0635\u0641\u0647\u0627\u0646\u06CC-\u0627\u0646\u062A\u0634\u0627\u0631\u0627\u062A-\u0647\u06CC\u062A\u0627",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/d503e4f09f908cebdc784179aee287111f9bd539_1741723986.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 47000,
+    "RrpPrice": 298000,
+    "SoldPercentage": 0,
+    "Discount": 251000,
+    "DiscountPercent": 84
   }
 ]
