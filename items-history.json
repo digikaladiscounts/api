@@ -1,22 +1,5 @@
 [
   {
-    "Id": "17794605",
-    "AddDate": "2025-04-25T04:19:16.2834851Z",
-    "Timer": 58244,
-    "EndDate": "2025-04-25T20:30:00.2834851Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0646\u06CC\u0645 \u062A\u0646\u0647 \u0648\u0631\u0632\u0634\u06CC \u0632\u0646\u0627\u0646\u0647 \u062F\u06CC\u06A9\u0645\u067E \u0645\u062F\u0644 SW-009",
-    "Url": "/product/dkp-17794605/\u0646\u06CC\u0645-\u062A\u0646\u0647-\u0648\u0631\u0632\u0634\u06CC-\u0632\u0646\u0627\u0646\u0647-\u062F\u06CC\u06A9\u0645\u067E-\u0645\u062F\u0644-sw-009",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/1c304f77875d3d68255f0cf29174286516cc14e0_1735369633.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 259000,
-    "RrpPrice": 500000,
-    "SoldPercentage": 0,
-    "Discount": 241000,
-    "DiscountPercent": 48
-  },
-  {
     "Id": "19024205",
     "AddDate": "2025-04-25T06:22:53.2993755Z",
     "Timer": 7627,
@@ -12697,5 +12680,22 @@
     "SoldPercentage": 0,
     "Discount": 380000,
     "DiscountPercent": 49
+  },
+  {
+    "Id": "12152299",
+    "AddDate": "2025-04-27T06:21:31.0547102Z",
+    "Timer": 7710,
+    "EndDate": "2025-04-27T08:30:01.0547102Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0642\u0641\u0633 \u0633\u06AF \u0645\u062F\u0644 90 \u0633\u0642\u0641 \u0628\u0627\u0632\u0634\u0648",
+    "Url": "/product/dkp-12152299/\u0642\u0641\u0633-\u0633\u06AF-\u0645\u062F\u0644-90-\u0633\u0642\u0641-\u0628\u0627\u0632\u0634\u0648",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/8e3a9a57c8094e9f3b17317bb6b51bce20a3ae27_1690265332.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 5550000,
+    "RrpPrice": 5800000,
+    "SoldPercentage": 0,
+    "Discount": 250000,
+    "DiscountPercent": 4
   }
 ]
