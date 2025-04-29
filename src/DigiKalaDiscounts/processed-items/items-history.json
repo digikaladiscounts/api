@@ -13479,5 +13479,22 @@
     "SoldPercentage": 0,
     "Discount": 550000,
     "DiscountPercent": 2
+  },
+  {
+    "Id": "19009626",
+    "AddDate": "2025-04-29T14:17:04.6032521Z",
+    "Timer": 22376,
+    "EndDate": "2025-04-29T20:30:00.6032521Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0645\u0627\u06A9\u062A \u0645\u0627\u0634\u06CC\u0646 \u0646\u0627\u0628 \u0633\u0644 \u0645\u062F\u0644 \u0628\u0646\u0632 \u0641\u0644\u0632\u06CC \u0633\u0642\u0641 \u06A9\u0647\u06A9\u0634\u0627\u0646\u06CC BENZ E300 \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u062C\u0627\u0633\u0648\u06CC\u06CC\u0686\u06CC",
+    "Url": "/product/dkp-19009626/\u0645\u0627\u06A9\u062A-\u0645\u0627\u0634\u06CC\u0646-\u0646\u0627\u0628-\u0633\u0644-\u0645\u062F\u0644-\u0628\u0646\u0632-\u0641\u0644\u0632\u06CC-\u0633\u0642\u0641-\u06A9\u0647\u06A9\u0634\u0627\u0646\u06CC-benz-e300-\u0628\u0647-\u0647\u0645\u0631\u0627\u0647-\u062C\u0627\u0633\u0648\u06CC\u06CC\u0686\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/ea6dde0ddb3963b4a02058b7ce3d4ec923776e9b_1745217218.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1097000,
+    "RrpPrice": 1750000,
+    "SoldPercentage": 0,
+    "Discount": 653000,
+    "DiscountPercent": 37
   }
 ]
