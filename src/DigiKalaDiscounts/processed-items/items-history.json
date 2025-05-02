@@ -51,23 +51,6 @@
     "DiscountPercent": 11
   },
   {
-    "Id": "16412388",
-    "AddDate": "2025-04-30T03:04:06.207397Z",
-    "Timer": 149155,
-    "EndDate": "2025-05-01T20:30:01.207397Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0645\u0627\u06CC\u0639 \u0644\u0628\u0627\u0633\u0634\u0648\u06CC\u06CC \u0627\u062D\u06CC\u0627 \u06A9\u0646\u0646\u062F\u0647 \u067E\u0631\u0633\u06CC\u0644 \u0645\u062E\u0635\u0648\u0635 \u0644\u0628\u0627\u0633 \u0647\u0627\u06CC \u0638\u0631\u06CC\u0641 \u0648 \u0627\u0628\u0631\u06CC\u0634\u0645\u06CC \u0648 \u067E\u0634\u0645\u06CC \u0648\u0632\u0646 1 \u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645",
-    "Url": "/product/dkp-16412388/\u0645\u0627\u06CC\u0639-\u0644\u0628\u0627\u0633\u0634\u0648\u06CC\u06CC-\u0627\u062D\u06CC\u0627-\u06A9\u0646\u0646\u062F\u0647-\u067E\u0631\u0633\u06CC\u0644-\u0645\u062E\u0635\u0648\u0635-\u0644\u0628\u0627\u0633-\u0647\u0627\u06CC-\u0638\u0631\u06CC\u0641-\u0648-\u0627\u0628\u0631\u06CC\u0634\u0645\u06CC-\u0648-\u067E\u0634\u0645\u06CC-\u0648\u0632\u0646-1-\u06A9\u06CC\u0644\u0648\u06AF\u0631\u0645",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/69cf662a9fefe55f3eba3f4619ff27b4badf2973_1733650189.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 94000,
-    "RrpPrice": 123000,
-    "SoldPercentage": 0,
-    "Discount": 29000,
-    "DiscountPercent": 24
-  },
-  {
     "Id": "7341962",
     "AddDate": "2025-04-30T06:23:54.3487957Z",
     "Timer": 7567,
@@ -14652,5 +14635,22 @@
     "SoldPercentage": 0,
     "Discount": 221000,
     "DiscountPercent": 44
+  },
+  {
+    "Id": "18920375",
+    "AddDate": "2025-05-02T03:07:02.923026Z",
+    "Timer": 4978,
+    "EndDate": "2025-05-02T04:30:00.923026Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0634\u0627\u0631\u0698\u0631 \u0641\u0646\u062F\u06A9\u06CC 50 \u0648\u0627\u062A \u0648\u0648\u0646\u06A9 \u0645\u062F\u0644 VC--50 \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u06A9\u0627\u0628\u0644 USB-C",
+    "Url": "/product/dkp-18920375/\u0634\u0627\u0631\u0698\u0631-\u0641\u0646\u062F\u06A9\u06CC-50-\u0648\u0627\u062A-\u0648\u0648\u0646\u06A9-\u0645\u062F\u0644-vc-50-\u0628\u0647-\u0647\u0645\u0631\u0627\u0647-\u06A9\u0627\u0628\u0644-usb-c",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/c305d5f9dc1d14318ad9ba123b6edc9d4318f86a_1744619362.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 945000,
+    "RrpPrice": 1720000,
+    "SoldPercentage": 0,
+    "Discount": 775000,
+    "DiscountPercent": 45
   }
 ]
