@@ -12323,5 +12323,39 @@
     "SoldPercentage": 0,
     "Discount": 11400,
     "DiscountPercent": 3
+  },
+  {
+    "Id": "17569290",
+    "AddDate": "2025-05-03T01:14:29.306171Z",
+    "Timer": 11731,
+    "EndDate": "2025-05-03T04:30:00.306171Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062F\u0648\u0631\u0628\u06CC\u0646 \u0645\u062F\u0627\u0631\u0628\u0633\u062A\u0647 \u062A\u062D\u062A \u0634\u0628\u06A9\u0647 \u0627\u0633\u0641\u06CC\u0648\u0631\u062F \u0645\u062F\u0644 Z550",
+    "Url": "/product/dkp-17569290/\u062F\u0648\u0631\u0628\u06CC\u0646-\u0645\u062F\u0627\u0631\u0628\u0633\u062A\u0647-\u062A\u062D\u062A-\u0634\u0628\u06A9\u0647-\u0627\u0633\u0641\u06CC\u0648\u0631\u062F-\u0645\u062F\u0644-z550",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/dfa9fcf0bf8f294547dd7e59cf03cd177dc52250_1732965306.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 3599000,
+    "RrpPrice": 5500000,
+    "SoldPercentage": 0,
+    "Discount": 1901000,
+    "DiscountPercent": 35
+  },
+  {
+    "Id": "18387069",
+    "AddDate": "2025-05-03T01:14:27.730646Z",
+    "Timer": 11733,
+    "EndDate": "2025-05-03T04:30:00.730646Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u062F\u0633\u062A  \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u062F\u0627\u0648\u0648 \u0645\u062F\u0644 GALAXY",
+    "Url": "/product/dkp-18387069/\u0647\u062F\u0633\u062A-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u062F\u0627\u0648\u0648-\u0645\u062F\u0644-galaxy",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/b1c92368947a62727a08428dc6e7ac5ad79ea535_1745827654.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1900000,
+    "RrpPrice": 3400000,
+    "SoldPercentage": 0,
+    "Discount": 1500000,
+    "DiscountPercent": 44
   }
 ]
