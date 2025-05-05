@@ -1,39 +1,5 @@
 [
   {
-    "Id": "18351129",
-    "AddDate": "2025-05-03T06:20:56.8651503Z",
-    "Timer": 7744,
-    "EndDate": "2025-05-03T08:30:00.8651503Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0647\u062F\u0641\u0648\u0646\u00A0\u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0646\u06CC\u0627 \u0645\u062F\u0644 Nia3 RS320",
-    "Url": "/product/dkp-18351129/\u0647\u062F\u0641\u0648\u0646-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0646\u06CC\u0627-\u0645\u062F\u0644-nia3-rs320",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/d447abcc9a0b91180b3153c53c94ac31f9ffb8be_1739777421.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 1080000,
-    "RrpPrice": 1963630,
-    "SoldPercentage": 0,
-    "Discount": 883630,
-    "DiscountPercent": 45
-  },
-  {
-    "Id": "14514813",
-    "AddDate": "2025-05-03T06:20:51.8621477Z",
-    "Timer": 7749,
-    "EndDate": "2025-05-03T08:30:00.8621477Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0627\u062C\u0627\u0642 \u0633\u0641\u0631\u06CC  \u0645\u062F\u0644 MRT - M1",
-    "Url": "/product/dkp-14514813/\u0627\u062C\u0627\u0642-\u0633\u0641\u0631\u06CC-\u0645\u062F\u0644-mrt-m1",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/982763839f4db307f3cce43a4f0a9ece3f14822e_1719845270.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 199590,
-    "RrpPrice": 223000,
-    "SoldPercentage": 0,
-    "Discount": 23410,
-    "DiscountPercent": 10
-  },
-  {
     "Id": "19101761",
     "AddDate": "2025-05-03T08:19:40.2470073Z",
     "Timer": 43821,
@@ -12782,5 +12748,22 @@
     "SoldPercentage": 0,
     "Discount": 19570,
     "DiscountPercent": 35
+  },
+  {
+    "Id": "17729507",
+    "AddDate": "2025-05-05T06:24:23.3798566Z",
+    "Timer": 50737,
+    "EndDate": "2025-05-05T20:30:00.3798566Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0641\u0634 \u0631\u0627\u062D\u062A\u06CC \u062F\u062E\u062A\u0631\u0627\u0646\u0647 \u06A9\u0631\u0648\u0645\u0627\u06A9\u06CC \u0645\u062F\u0644 kmb175",
+    "Url": "/product/dkp-17729507/\u06A9\u0641\u0634-\u0631\u0627\u062D\u062A\u06CC-\u062F\u062E\u062A\u0631\u0627\u0646\u0647-\u06A9\u0631\u0648\u0645\u0627\u06A9\u06CC-\u0645\u062F\u0644-kmb175",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/70334b1b7cba3b234b1d01eb33516c8c9f2af6b8_1734777985.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 828000,
+    "RrpPrice": 1620000,
+    "SoldPercentage": 0,
+    "Discount": 792000,
+    "DiscountPercent": 49
   }
 ]
