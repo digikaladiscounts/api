@@ -13751,5 +13751,39 @@
     "SoldPercentage": 0,
     "Discount": 940900,
     "DiscountPercent": 45
+  },
+  {
+    "Id": "19090093",
+    "AddDate": "2025-05-06T04:21:35.3590724Z",
+    "Timer": 506,
+    "EndDate": "2025-05-06T04:30:01.3590724Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u0627\u0639\u062A \u0647\u0648\u0634\u0645\u0646\u062F 45 \u0645\u06CC\u0644\u06CC \u0645\u062A\u0631\u06CC \u0631\u06CC\u0648\u0644\u06CC\u0646\u06A9 \u0645\u062F\u0644 R12 pro ultra \u0628\u0627 \u0628\u0646\u062F \u0633\u0644\u06CC\u06A9\u0648\u0646",
+    "Url": "/product/dkp-19090093/\u0633\u0627\u0639\u062A-\u0647\u0648\u0634\u0645\u0646\u062F-45-\u0645\u06CC\u0644\u06CC-\u0645\u062A\u0631\u06CC-\u0631\u06CC\u0648\u0644\u06CC\u0646\u06A9-\u0645\u062F\u0644-r12-pro-ultra-\u0628\u0627-\u0628\u0646\u062F-\u0633\u0644\u06CC\u06A9\u0648\u0646",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/8be4f379686633455de3833b142567a1645b3817_1745830369.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2959990,
+    "RrpPrice": 6000000,
+    "SoldPercentage": 0,
+    "Discount": 3040010,
+    "DiscountPercent": 51
+  },
+  {
+    "Id": "15352140",
+    "AddDate": "2025-05-06T04:21:35.3590724Z",
+    "Timer": 506,
+    "EndDate": "2025-05-06T04:30:01.3590724Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u0646\u062F\u0632\u0641\u0631\u06CC \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0646\u06CC\u0627\u00A0\u0645\u062F\u0644 RS-230",
+    "Url": "/product/dkp-15352140/\u0647\u0646\u062F\u0632\u0641\u0631\u06CC-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0646\u06CC\u0627-\u0645\u062F\u0644-rs-230",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/1fab4931e86f68800afdb407810f5730a2490987_1714743407.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1111100,
+    "RrpPrice": 2020180,
+    "SoldPercentage": 0,
+    "Discount": 909080,
+    "DiscountPercent": 45
   }
 ]
