@@ -14805,5 +14805,39 @@
     "SoldPercentage": 0,
     "Discount": 19050,
     "DiscountPercent": 21
+  },
+  {
+    "Id": "16749173",
+    "AddDate": "2025-05-13T01:20:19.9416621Z",
+    "Timer": 68981,
+    "EndDate": "2025-05-13T20:30:00.9416621Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062F\u0648\u0631\u0628\u06CC\u0646 \u062B\u0628\u062A \u0648\u0642\u0627\u06CC\u0639 \u062E\u0648\u062F\u0631\u0648 \u0627\u06CC\u06A9\u0633 \u0627\u0648 \u0645\u062F\u0644 XO-XJ03",
+    "Url": "/product/dkp-16749173/\u062F\u0648\u0631\u0628\u06CC\u0646-\u062B\u0628\u062A-\u0648\u0642\u0627\u06CC\u0639-\u062E\u0648\u062F\u0631\u0648-\u0627\u06CC\u06A9\u0633-\u0627\u0648-\u0645\u062F\u0644-xo-xj03",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/bff92a2a0d5799bf9251570f27a20b5a6c5f9633_1726733736.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2985000,
+    "RrpPrice": 5500000,
+    "SoldPercentage": 0,
+    "Discount": 2515000,
+    "DiscountPercent": 46
+  },
+  {
+    "Id": "15571868",
+    "AddDate": "2025-05-13T01:20:40.6098543Z",
+    "Timer": 68960,
+    "EndDate": "2025-05-13T20:30:00.6098543Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0627\u062F\u0648\u067E\u0631\u0641\u06CC\u0648\u0645 \u0633\u062F\u06CC\u0648\u0633 \u0645\u062F\u0644 \u0641\u06CC\u0633 600221 \u062D\u062C\u0645 100 \u0645\u06CC\u0644\u06CC\u200C\u0644\u06CC\u062A\u0631",
+    "Url": "/product/dkp-15571868/\u0627\u062F\u0648\u067E\u0631\u0641\u06CC\u0648\u0645-\u0633\u062F\u06CC\u0648\u0633-\u0645\u062F\u0644-\u0641\u06CC\u0633-600221-\u062D\u062C\u0645-100-\u0645\u06CC\u0644\u06CC\u0644\u06CC\u062A\u0631",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/0db7931f910b575993e79ca88f0f543b3d3ffb8f_1716723361.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 899970,
+    "RrpPrice": 2999900,
+    "SoldPercentage": 0,
+    "Discount": 2099930,
+    "DiscountPercent": 70
   }
 ]
