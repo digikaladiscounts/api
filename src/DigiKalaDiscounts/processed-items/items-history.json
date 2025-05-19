@@ -1,22 +1,5 @@
 [
   {
-    "Id": "602665",
-    "AddDate": "2025-05-17T14:13:41.6078432Z",
-    "Timer": 195379,
-    "EndDate": "2025-05-19T20:30:00.6078432Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0635\u0627\u0628\u0648\u0646 \u0622\u0631\u0648\u0645\u06A9\u0633 \u0645\u062F\u0644 Purple \u0628\u0633\u062A\u0647 5 \u0639\u062F\u062F\u06CC",
-    "Url": "/product/dkp-602665/\u0635\u0627\u0628\u0648\u0646-\u0622\u0631\u0648\u0645\u06A9\u0633-\u0645\u062F\u0644-purple-\u0628\u0633\u062A\u0647-5-\u0639\u062F\u062F\u06CC",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/2600464.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 40000,
-    "RrpPrice": 75100,
-    "SoldPercentage": 0,
-    "Discount": 35100,
-    "DiscountPercent": 47
-  },
-  {
     "Id": "18907262",
     "AddDate": "2025-05-17T16:20:13.2152313Z",
     "Timer": 14988,
@@ -13734,5 +13717,22 @@
     "SoldPercentage": 0,
     "Discount": 1250,
     "DiscountPercent": 2
+  },
+  {
+    "Id": "14503590",
+    "AddDate": "2025-05-19T14:17:25.8188721Z",
+    "Timer": 108755,
+    "EndDate": "2025-05-20T20:30:00.8188721Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06AF\u0648\u0634\u06CC \u0645\u0648\u0628\u0627\u06CC\u0644 \u0634\u06CC\u0627\u0626\u0648\u0645\u06CC \u0645\u062F\u0644 Redmi A3 \u062F\u0648 \u0633\u06CC\u0645 \u06A9\u0627\u0631\u062A \u0638\u0631\u0641\u06CC\u062A 128 \u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A \u0648 \u0631\u0645 4 \u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A",
+    "Url": "/product/dkp-14503590/\u06AF\u0648\u0634\u06CC-\u0645\u0648\u0628\u0627\u06CC\u0644-\u0634\u06CC\u0627\u0626\u0648\u0645\u06CC-\u0645\u062F\u0644-redmi-a3-\u062F\u0648-\u0633\u06CC\u0645-\u06A9\u0627\u0631\u062A-\u0638\u0631\u0641\u06CC\u062A-128-\u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A-\u0648-\u0631\u0645-4-\u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/d5ef6ea65e38b2e4e025eef7852a5f34bf914493_1726389410.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 6799000,
+    "RrpPrice": 7000000,
+    "SoldPercentage": 0,
+    "Discount": 201000,
+    "DiscountPercent": 3
   }
 ]
