@@ -15655,5 +15655,22 @@
     "SoldPercentage": 0,
     "Discount": 132300,
     "DiscountPercent": 27
+  },
+  {
+    "Id": "16653068",
+    "AddDate": "2025-05-27T18:21:52.9025896Z",
+    "Timer": 7688,
+    "EndDate": "2025-05-27T20:30:00.9025896Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0645\u0686 \u0628\u0646\u062F \u0647\u0648\u0634\u0645\u0646\u062F \u0634\u06CC\u0627\u0626\u0648\u0645\u06CC \u0645\u062F\u0644 Smart Band 9 - \u06AF\u0644\u0648\u0628\u0627\u0644",
+    "Url": "/product/dkp-16653068/\u0645\u0686-\u0628\u0646\u062F-\u0647\u0648\u0634\u0645\u0646\u062F-\u0634\u06CC\u0627\u0626\u0648\u0645\u06CC-\u0645\u062F\u0644-smart-band-9-\u06AF\u0644\u0648\u0628\u0627\u0644",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/15b47bd479001283711b0686538e1d4fb1ecf47e_1725719205.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2500000,
+    "RrpPrice": 3200400,
+    "SoldPercentage": 45,
+    "Discount": 700400,
+    "DiscountPercent": 22
   }
 ]
