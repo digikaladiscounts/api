@@ -14601,5 +14601,39 @@
     "SoldPercentage": 0,
     "Discount": 25600,
     "DiscountPercent": 10
+  },
+  {
+    "Id": "18488810",
+    "AddDate": "2025-05-27T01:17:33.9270318Z",
+    "Timer": 69147,
+    "EndDate": "2025-05-27T20:30:00.9270318Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0627\u0645\u067E\u06CC\u0648\u062A\u0631 \u0647\u0645\u0647 \u06A9\u0627\u0631\u0647 27 \u0627\u06CC\u0646\u0686 \u0645\u0627\u06CC\u0627 \u0645\u062F\u0644 MA27P A12-i5 12400-8GB DDR5-1TB SSD-IPS",
+    "Url": "/product/dkp-18488810/\u06A9\u0627\u0645\u067E\u06CC\u0648\u062A\u0631-\u0647\u0645\u0647-\u06A9\u0627\u0631\u0647-27-\u0627\u06CC\u0646\u0686-\u0645\u0627\u06CC\u0627-\u0645\u062F\u0644-ma27p-a12-i5-12400-8gb-ddr5-1tb-ssd-ips",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/982569c73c0df47f5d57961243ce6b03017119e2_1740840526.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 49800000,
+    "RrpPrice": 52500000,
+    "SoldPercentage": 0,
+    "Discount": 2700000,
+    "DiscountPercent": 5
+  },
+  {
+    "Id": "19104872",
+    "AddDate": "2025-05-27T01:17:33.9270318Z",
+    "Timer": 11547,
+    "EndDate": "2025-05-27T04:30:00.9270318Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u0627\u0639\u062A \u0647\u0648\u0634\u0645\u0646\u062F \u0622\u0631\u06CC\u0648 \u0645\u062F\u0644 WA49 Ultra \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u0647\u0641\u062A \u0628\u0646\u062F",
+    "Url": "/product/dkp-19104872/\u0633\u0627\u0639\u062A-\u0647\u0648\u0634\u0645\u0646\u062F-\u0622\u0631\u06CC\u0648-\u0645\u062F\u0644-wa49-ultra-\u0628\u0647-\u0647\u0645\u0631\u0627\u0647-\u0647\u0641\u062A-\u0628\u0646\u062F",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/b5929873c98527541278faa174f9703cf02c2e5a_1746522759.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1255000,
+    "RrpPrice": 3395000,
+    "SoldPercentage": 40,
+    "Discount": 2140000,
+    "DiscountPercent": 63
   }
 ]
