@@ -1,22 +1,5 @@
 [
   {
-    "Id": "13592067",
-    "AddDate": "2025-06-07T14:13:56.2221256Z",
-    "Timer": 108965,
-    "EndDate": "2025-06-08T20:30:01.2221256Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u06A9\u0646\u0633\u0648\u0644 \u0628\u0627\u0632\u06CC \u0633\u0648\u0646\u06CC \u0645\u062F\u0644 PlayStation 5 Slim Digital Edition \u0638\u0631\u0641\u06CC\u062A \u06CC\u06A9 \u062A\u0631\u0627\u0628\u0627\u06CC\u062A \u0631\u06CC\u062C\u0646 2016B \u0627\u0631\u0648\u067E\u0627",
-    "Url": "/product/dkp-13592067/\u06A9\u0646\u0633\u0648\u0644-\u0628\u0627\u0632\u06CC-\u0633\u0648\u0646\u06CC-\u0645\u062F\u0644-playstation-5-slim-digital-edition-\u0638\u0631\u0641\u06CC\u062A-\u06CC\u06A9-\u062A\u0631\u0627\u0628\u0627\u06CC\u062A-\u0631\u06CC\u062C\u0646-2016b-\u0627\u0631\u0648\u067E\u0627",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/1d528607d530a07042e4dfe0df8f0f4086478989_1701611579.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 42899000,
-    "RrpPrice": 44000000,
-    "SoldPercentage": 0,
-    "Discount": 1101000,
-    "DiscountPercent": 3
-  },
-  {
     "Id": "17395153",
     "AddDate": "2025-06-07T16:18:48.4520339Z",
     "Timer": 15073,
@@ -14924,5 +14907,39 @@
     "SoldPercentage": 0,
     "Discount": 121540,
     "DiscountPercent": 23
+  },
+  {
+    "Id": "17395062",
+    "AddDate": "2025-06-09T14:17:28.168735Z",
+    "Timer": 22353,
+    "EndDate": "2025-06-09T20:30:01.168735Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062F\u0633\u062A\u0628\u0646\u062F \u0637\u0644\u0627 18 \u0639\u06CC\u0627\u0631 \u0632\u0646\u0627\u0646\u0647 \u0646\u0627\u0631\u06CC\u0627 \u0645\u062F\u0644 \u06A9\u0627\u0631\u062A\u06CC\u0631 \u06A9\u062F 0022",
+    "Url": "/product/dkp-17395062/\u062F\u0633\u062A\u0628\u0646\u062F-\u06A9\u0645-\u0627\u062C\u0631\u062A-18-\u0639\u06CC\u0627\u0631-\u0632\u0646\u0627\u0646\u0647-\u0646\u0627\u0631\u06CC\u0627-\u0645\u062F\u0644-\u06A9\u0627\u0631\u062A\u06CC\u0631-\u06A9\u062F-0022",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/478e95a698a76387ca18f458d81fc574adb512f5_1731586486.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 40736600,
+    "RrpPrice": 45709410,
+    "SoldPercentage": 0,
+    "Discount": 4972810,
+    "DiscountPercent": 11
+  },
+  {
+    "Id": "15595047",
+    "AddDate": "2025-06-09T14:17:28.6624443Z",
+    "Timer": 108752,
+    "EndDate": "2025-06-10T20:30:00.6624443Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06AF\u0648\u0634\u06CC \u0645\u0648\u0628\u0627\u06CC\u0644 \u0646\u0648\u06A9\u06CC\u0627 \u0645\u062F\u0644 106 2023 \u062F\u0648 \u0633\u06CC\u0645 \u06A9\u0627\u0631\u062A - \u0645\u0648\u0646\u062A\u0627\u0698 \u0627\u06CC\u0631\u0627\u0646 \u062A\u062D\u062A \u0644\u06CC\u0633\u0627\u0646\u0633 \u0646\u0648\u06A9\u06CC\u0627 ",
+    "Url": "/product/dkp-15595047/\u06AF\u0648\u0634\u06CC-\u0645\u0648\u0628\u0627\u06CC\u0644-\u0646\u0648\u06A9\u06CC\u0627-\u0645\u062F\u0644-106-2023-\u062F\u0648-\u0633\u06CC\u0645-\u06A9\u0627\u0631\u062A-\u0645\u0648\u0646\u062A\u0627\u0698-\u0627\u06CC\u0631\u0627\u0646-\u062A\u062D\u062A-\u0644\u06CC\u0633\u0627\u0646\u0633-\u0646\u0648\u06A9\u06CC\u0627",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9bd09e2483ced06bba23eb1fad691b064820b247_1731491852.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1239000,
+    "RrpPrice": 1305400,
+    "SoldPercentage": 0,
+    "Discount": 66400,
+    "DiscountPercent": 5
   }
 ]
