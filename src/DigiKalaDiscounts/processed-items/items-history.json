@@ -14159,5 +14159,22 @@
     "SoldPercentage": 0,
     "Discount": 175500,
     "DiscountPercent": 30
+  },
+  {
+    "Id": "19251377",
+    "AddDate": "2025-06-11T04:26:00.2066956Z",
+    "Timer": 14641,
+    "EndDate": "2025-06-11T08:30:01.2066956Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u062F\u0641\u0648\u0646 \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0645\u062F\u0644 OWS 99",
+    "Url": "/product/dkp-19251377/\u0647\u062F\u0641\u0648\u0646-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0645\u062F\u0644-ows-99",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/1f7bd3c78228245290869db16da997287425259a_1747387169.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 199000,
+    "RrpPrice": 360000,
+    "SoldPercentage": 0,
+    "Discount": 161000,
+    "DiscountPercent": 45
   }
 ]
